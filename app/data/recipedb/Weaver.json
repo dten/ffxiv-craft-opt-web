@@ -2076,6 +2076,23 @@
   {
     "baseLevel": 20,
     "difficulty": 74,
+    "durability": 60,
+    "id": "b6ae887431b",
+    "level": 20,
+    "maxQuality": 1263,
+    "name": {
+      "cn": "Grade 4 Skybuilders' Rope",
+      "de": "Himmelsang-Strohseil",
+      "en": "Grade 4 Skybuilders' Rope",
+      "fr": "Corde de restauration (4e phase)",
+      "ja": "第四次復興用の荒縄",
+      "ko": "Grade 4 Skybuilders' Rope"
+    },
+    "suggestedCraftsmanship": 94
+  },
+  {
+    "baseLevel": 20,
+    "difficulty": 74,
     "durability": 70,
     "id": "14c332f05cb",
     "level": 20,
@@ -2830,7 +2847,7 @@
     "maxQuality": 1584,
     "name": {
       "cn": "天上蓝染剂",
-      "de": "Jadegrüner Farbstoff",
+      "de": "Azurblauer Farbstoff",
       "en": "Celeste Green Dye",
       "fr": "Teinture vert céleste",
       "ja": "カララント:セレストグリーン",
@@ -4535,6 +4552,23 @@
       "fr": "Étoffe de restauration (3e phase)",
       "ja": "第三次復興用の生地",
       "ko": "Grade 3 Skybuilders' Cloth"
+    },
+    "suggestedCraftsmanship": 136
+  },
+  {
+    "baseLevel": 40,
+    "difficulty": 138,
+    "durability": 60,
+    "id": "6c6b397c05b",
+    "level": 40,
+    "maxQuality": 4100,
+    "name": {
+      "cn": "Grade 4 Skybuilders' Cloth",
+      "de": "Himmelsang-Stoffballen",
+      "en": "Grade 4 Skybuilders' Cloth",
+      "fr": "Étoffe de restauration (4e phase)",
+      "ja": "第四次復興用の生地",
+      "ko": "Grade 4 Skybuilders' Cloth"
     },
     "suggestedCraftsmanship": 136
   },
@@ -12259,6 +12293,23 @@
     "baseLevel": 60,
     "difficulty": 956,
     "durability": 60,
+    "id": "019ea54bc9d",
+    "level": 150,
+    "maxQuality": 15702,
+    "name": {
+      "cn": "Grade 4 Skybuilders' Broom",
+      "de": "Himmelsang-Besen",
+      "en": "Grade 4 Skybuilders' Broom",
+      "fr": "Balai de restauration (4e phase)",
+      "ja": "第四次復興用のホウキ",
+      "ko": "Grade 4 Skybuilders' Broom"
+    },
+    "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 956,
+    "durability": 60,
     "id": "f987e6702e8",
     "level": 150,
     "maxQuality": 6280,
@@ -18419,6 +18470,23 @@
   },
   {
     "baseLevel": 70,
+    "difficulty": 2214,
+    "durability": 60,
+    "id": "3dd8f5c443a",
+    "level": 290,
+    "maxQuality": 32860,
+    "name": {
+      "cn": "Grade 4 Skybuilders' Gloves",
+      "de": "Himmelsang-Handschuhe",
+      "en": "Grade 4 Skybuilders' Gloves",
+      "fr": "Gants de restauration (4e phase)",
+      "ja": "第四次復興用の手袋",
+      "ko": "Grade 4 Skybuilders' Gloves"
+    },
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
     "difficulty": 2435,
     "durability": 70,
     "id": "4b3e326d3f0",
@@ -21120,6 +21188,23 @@
     "suggestedCraftsmanship": 1320
   },
   {
+    "baseLevel": 71,
+    "difficulty": 3149,
+    "durability": 60,
+    "id": "2d21fc2a3e8",
+    "level": 390,
+    "maxQuality": 10468,
+    "name": {
+      "cn": "Patient Necessities",
+      "de": "Alltägliche Bedarfsgüter",
+      "en": "Patient Necessities",
+      "fr": "Articles du quotidien",
+      "ja": "記念病院の日用品",
+      "ko": "Patient Necessities"
+    },
+    "suggestedCraftsmanship": 1320
+  },
+  {
     "baseLevel": 72,
     "difficulty": 3248,
     "durability": 60,
@@ -21286,6 +21371,23 @@
       "fr": "Fil de soie iridescente",
       "ja": "虹繭糸",
       "ko": "Iridescent Silk Thread"
+    },
+    "suggestedCraftsmanship": 1388
+  },
+  {
+    "baseLevel": 72,
+    "difficulty": 3248,
+    "durability": 60,
+    "id": "24fd6e514fe",
+    "level": 395,
+    "maxQuality": 10928,
+    "name": {
+      "cn": "Medical Supplies",
+      "de": "Medizinische Versorgungsgüter",
+      "en": "Medical Supplies",
+      "fr": "Matériel médical",
+      "ja": "記念病院の医療品",
+      "ko": "Medical Supplies"
     },
     "suggestedCraftsmanship": 1388
   },
@@ -21507,6 +21609,23 @@
       "fr": "Haut-de-corps de soigneur en soie iridescente",
       "ja": "イリディセントヒーラートップス",
       "ko": "Iridescent Top of Healing"
+    },
+    "suggestedCraftsmanship": 1457
+  },
+  {
+    "baseLevel": 73,
+    "difficulty": 3348,
+    "durability": 60,
+    "id": "c1f024ac076",
+    "level": 400,
+    "maxQuality": 11249,
+    "name": {
+      "cn": "Rehabilitation Aids",
+      "de": "Rehabilitations-Hilfsmittel",
+      "en": "Rehabilitation Aids",
+      "fr": "Matériel de rééducation",
+      "ja": "記念病院の機能回復訓練用品",
+      "ko": "Rehabilitation Aids"
     },
     "suggestedCraftsmanship": 1457
   },
@@ -21745,6 +21864,23 @@
       "fr": "Matériau de restauration de barde d'amaro",
       "ja": "アマロ装身具の修復材",
       "ko": "Amaro Barding Repair Materials"
+    },
+    "suggestedCraftsmanship": 1539
+  },
+  {
+    "baseLevel": 75,
+    "difficulty": 3467,
+    "durability": 60,
+    "id": "ff7bf3e2939",
+    "level": 406,
+    "maxQuality": 11921,
+    "name": {
+      "cn": "High Tea Essentials",
+      "de": "Teestunden-Utensilien",
+      "en": "High Tea Essentials",
+      "fr": "Articles de goûter dînatoire",
+      "ja": "記念病院の茶会用品",
+      "ko": "High Tea Essentials"
     },
     "suggestedCraftsmanship": 1539
   },
@@ -22138,6 +22274,23 @@
       "ko": "Rarefied Pixie Cotton Hood"
     },
     "suggestedCraftsmanship": 1580
+  },
+  {
+    "baseLevel": 77,
+    "difficulty": 3586,
+    "durability": 60,
+    "id": "a9db1fd8f6f",
+    "level": 412,
+    "maxQuality": 12593,
+    "name": {
+      "cn": "Art Supplies",
+      "de": "Künstlerbedarf",
+      "en": "Art Supplies",
+      "fr": "Matériel créatif",
+      "ja": "記念病院の絵画道具",
+      "ko": "Art Supplies"
+    },
+    "suggestedCraftsmanship": 1621
   },
   {
     "baseLevel": 77,
@@ -22636,6 +22789,23 @@
     "baseLevel": 80,
     "difficulty": 3943,
     "durability": 80,
+    "id": "319afdee645",
+    "level": 430,
+    "maxQuality": 9131,
+    "name": {
+      "cn": "Cream Yellow Carpet",
+      "de": "Beiger Raufaserteppich",
+      "en": "Cream Yellow Carpet",
+      "fr": "Rouleau de moquette jaune crème",
+      "ja": "クリームイエローカーペット",
+      "ko": "Cream Yellow Carpet"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
     "id": "17cd2ecead0",
     "level": 430,
     "maxQuality": 9131,
@@ -22799,6 +22969,23 @@
       "fr": "Auvent de restauration (3e phase)",
       "ja": "第三次復興用のオーニング",
       "ko": "Grade 3 Skybuilders' Awning"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 60,
+    "id": "6f81660bf7d",
+    "level": 430,
+    "maxQuality": 36524,
+    "name": {
+      "cn": "Grade 4 Skybuilders' Awning",
+      "de": "Himmelsang-Vordach",
+      "en": "Grade 4 Skybuilders' Awning",
+      "fr": "Auvent de restauration  (4e phase)",
+      "ja": "第四次復興用のオーニング",
+      "ko": "Grade 4 Skybuilders' Awning"
     },
     "suggestedCraftsmanship": 1866
   },
@@ -24296,6 +24483,96 @@
   },
   {
     "baseLevel": 80,
+    "difficulty": 5543,
+    "durability": 70,
+    "id": "39a1ba18ddf",
+    "level": 510,
+    "maxQuality": 28331,
+    "name": {
+      "cn": "Frontier Dress",
+      "de": "Grenzland-Kleid",
+      "en": "Frontier Dress",
+      "fr": "Robe des nouvelles frontières",
+      "ja": "フロンティアドレス",
+      "ko": "Frontier Dress"
+    },
+    "stars": 4,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 5543,
+    "durability": 70,
+    "id": "4e73efe77c4",
+    "level": 510,
+    "maxQuality": 28331,
+    "name": {
+      "cn": "Frontier Dress Gloves",
+      "de": "Grenzland-Galahandschuhe",
+      "en": "Frontier Dress Gloves",
+      "fr": "Gants d'apparat des nouvelles frontières",
+      "ja": "フロンティアドレスグローブ",
+      "ko": "Frontier Dress Gloves"
+    },
+    "stars": 4,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 5543,
+    "durability": 70,
+    "id": "ac409a2395d",
+    "level": 510,
+    "maxQuality": 28331,
+    "name": {
+      "cn": "Frontier Hat",
+      "de": "Grenzland-Hut",
+      "en": "Frontier Hat",
+      "fr": "Chapeau des nouvelles frontières",
+      "ja": "フロンティアハット",
+      "ko": "Frontier Hat"
+    },
+    "stars": 4,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 5543,
+    "durability": 70,
+    "id": "a8b8802653d",
+    "level": 510,
+    "maxQuality": 28331,
+    "name": {
+      "cn": "Frontier Ribbon",
+      "de": "Grenzland-Schleife",
+      "en": "Frontier Ribbon",
+      "fr": "Ruban des nouvelles frontières",
+      "ja": "フロンティアリボン",
+      "ko": "Frontier Ribbon"
+    },
+    "stars": 4,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 5543,
+    "durability": 70,
+    "id": "ff7074a0b9f",
+    "level": 510,
+    "maxQuality": 28331,
+    "name": {
+      "cn": "Frontier Trousers",
+      "de": "Grenzland-Hose",
+      "en": "Frontier Trousers",
+      "fr": "Pantalon des nouvelles frontières",
+      "ja": "フロンティアトラウザー",
+      "ko": "Frontier Trousers"
+    },
+    "stars": 4,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
     "difficulty": 11126,
     "durability": 50,
     "id": "ed2404c6959",
@@ -24308,6 +24585,81 @@
       "fr": "Tablier sur commande de restauration (3e phase)",
       "ja": "第三次復興用の特注エプロン",
       "ko": "Grade 3 Artisanal Skybuilders' Apron"
+    },
+    "stars": 4,
+    "suggestedControl": 2540,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 12046,
+    "durability": 55,
+    "id": "cedf3920ac1",
+    "level": 510,
+    "maxQuality": 81447,
+    "name": {
+      "cn": "Grade 4 Artisanal Skybuilders' Vest",
+      "de": "Sonderbestellte Himmelsang-Weste",
+      "en": "Grade 4 Artisanal Skybuilders' Vest",
+      "fr": "Gilet sur commande de restauration (4e phase)",
+      "ja": "第四次復興用の特注ベスト",
+      "ko": "Grade 4 Artisanal Skybuilders' Vest"
+    },
+    "stars": 4,
+    "suggestedControl": 2540,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 10049,
+    "durability": 60,
+    "id": "425399f2379",
+    "level": 510,
+    "maxQuality": 76939,
+    "name": {
+      "cn": "Oddly Delicate Rhea Cloth",
+      "de": "Rheastoff zur Himmelsstahl-Werkzeug-Vollendung",
+      "en": "Oddly Delicate Rhea Cloth",
+      "fr": "Étoffe de coutil indigo d'affinage final",
+      "ja": "最終改良用の藍上布",
+      "ko": "Oddly Delicate Rhea Cloth"
+    },
+    "stars": 4,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 12089,
+    "durability": 55,
+    "id": "15ec7e8c743",
+    "level": 510,
+    "maxQuality": 75378,
+    "name": {
+      "cn": "Resplendent Weaver's Component A",
+      "de": "Tertiärbauteil für Weber-Prachtwerkzeuge",
+      "en": "Resplendent Weaver's Component A",
+      "fr": "Composant pour outil resplendissant I (couturier)",
+      "ja": "リスプレンデントツールの一次加工部材:裁縫",
+      "ko": "Resplendent Weaver's Component A"
+    },
+    "stars": 4,
+    "suggestedControl": 2540,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 12132,
+    "durability": 55,
+    "id": "117b5c4f770",
+    "level": 510,
+    "maxQuality": 78180,
+    "name": {
+      "cn": "Resplendent Weaver's Component B",
+      "de": "Sekundärbauteil für Weber-Prachtwerkzeuge",
+      "en": "Resplendent Weaver's Component B",
+      "fr": "Composant pour outil resplendissant II (couturier)",
+      "ja": "リスプレンデントツールの二次加工部材:裁縫",
+      "ko": "Resplendent Weaver's Component B"
     },
     "stars": 4,
     "suggestedControl": 2540,
@@ -24329,6 +24681,25 @@
       "ko": "Saffron Cloth"
     },
     "stars": 4,
+    "suggestedControl": 2540,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 13024,
+    "durability": 60,
+    "id": "139e5de9d79",
+    "level": 540,
+    "maxQuality": 85033,
+    "name": {
+      "cn": "Resplendent Weaver's Component C",
+      "de": "Primärbauteil für Weber-Prachtwerkzeuge",
+      "en": "Resplendent Weaver's Component C",
+      "fr": "Composant pour outil resplendissant III (couturier)",
+      "ja": "リスプレンデントツールの三次加工部材:裁縫",
+      "ko": "Resplendent Weaver's Component C"
+    },
+    "stars": 5,
     "suggestedControl": 2540,
     "suggestedCraftsmanship": 2620
   }

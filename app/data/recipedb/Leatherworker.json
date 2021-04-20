@@ -1906,6 +1906,23 @@
   {
     "baseLevel": 20,
     "difficulty": 74,
+    "durability": 60,
+    "id": "a5b1cc52b27",
+    "level": 20,
+    "maxQuality": 1263,
+    "name": {
+      "cn": "Grade 4 Skybuilders' Leather",
+      "de": "Gegerbtes Himmelsang-Leder",
+      "en": "Grade 4 Skybuilders' Leather",
+      "fr": "Cuir de restauration (4e phase)",
+      "ja": "第四次復興用のなめし革",
+      "ko": "Grade 4 Skybuilders' Leather"
+    },
+    "suggestedCraftsmanship": 94
+  },
+  {
+    "baseLevel": 20,
+    "difficulty": 74,
     "durability": 70,
     "id": "8d51c3fbc3d",
     "level": 20,
@@ -2575,7 +2592,7 @@
     "maxQuality": 1584,
     "name": {
       "cn": "天上蓝染剂",
-      "de": "Jadegrüner Farbstoff",
+      "de": "Azurblauer Farbstoff",
       "en": "Celeste Green Dye",
       "fr": "Teinture vert céleste",
       "ja": "カララント:セレストグリーン",
@@ -3906,6 +3923,23 @@
       "fr": "Cordon de cuir de restauration (3e phase)",
       "ja": "第三次復興用の革紐",
       "ko": "Grade 3 Skybuilders' Leather Straps"
+    },
+    "suggestedCraftsmanship": 136
+  },
+  {
+    "baseLevel": 40,
+    "difficulty": 138,
+    "durability": 60,
+    "id": "48083c29e1d",
+    "level": 40,
+    "maxQuality": 4100,
+    "name": {
+      "cn": "Grade 4 Skybuilders' Leather Straps",
+      "de": "Himmelsang-Lederriemen",
+      "en": "Grade 4 Skybuilders' Leather Straps",
+      "fr": "Cordon de cuir de restauration (4e phase)",
+      "ja": "第四次復興用の革紐",
+      "ko": "Grade 4 Skybuilders' Leather Straps"
     },
     "suggestedCraftsmanship": 136
   },
@@ -11104,6 +11138,23 @@
       "fr": "Sac en cuir de restauration (3e phase)",
       "ja": "第三次復興用の革袋",
       "ko": "Grade 3 Skybuilders' Leather Sack"
+    },
+    "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 956,
+    "durability": 60,
+    "id": "39a0f1add00",
+    "level": 150,
+    "maxQuality": 15702,
+    "name": {
+      "cn": "Grade 4 Skybuilders' Leather Sack",
+      "de": "Himmelsang-Lederbeutel",
+      "en": "Grade 4 Skybuilders' Leather Sack",
+      "fr": "Sac en cuir de restauration (4e phase)",
+      "ja": "第四次復興用の革袋",
+      "ko": "Grade 4 Skybuilders' Leather Sack"
     },
     "suggestedCraftsmanship": 587
   },
@@ -18924,6 +18975,23 @@
   },
   {
     "baseLevel": 70,
+    "difficulty": 2214,
+    "durability": 60,
+    "id": "f0f4fab2f73",
+    "level": 290,
+    "maxQuality": 32860,
+    "name": {
+      "cn": "Grade 4 Skybuilders' Longboots",
+      "de": "Himmelsang-Stiefel",
+      "en": "Grade 4 Skybuilders' Longboots",
+      "fr": "Bottes de restauration (4e phase)",
+      "ja": "第四次復興用の長靴",
+      "ko": "Grade 4 Skybuilders' Longboots"
+    },
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
     "difficulty": 2435,
     "durability": 70,
     "id": "aeca2e3629f",
@@ -20546,6 +20614,23 @@
   },
   {
     "baseLevel": 71,
+    "difficulty": 3149,
+    "durability": 60,
+    "id": "eb385734f4b",
+    "level": 390,
+    "maxQuality": 10468,
+    "name": {
+      "cn": "Patient Necessities",
+      "de": "Alltägliche Bedarfsgüter",
+      "en": "Patient Necessities",
+      "fr": "Articles du quotidien",
+      "ja": "記念病院の日用品",
+      "ko": "Patient Necessities"
+    },
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
     "difficulty": 1574,
     "durability": 40,
     "id": "7d0f3504c23",
@@ -21090,6 +21175,23 @@
   },
   {
     "baseLevel": 72,
+    "difficulty": 3248,
+    "durability": 60,
+    "id": "0ae64438a9d",
+    "level": 395,
+    "maxQuality": 10928,
+    "name": {
+      "cn": "Medical Supplies",
+      "de": "Medizinische Versorgungsgüter",
+      "en": "Medical Supplies",
+      "fr": "Matériel médical",
+      "ja": "記念病院の医療品",
+      "ko": "Medical Supplies"
+    },
+    "suggestedCraftsmanship": 1388
+  },
+  {
+    "baseLevel": 72,
     "difficulty": 3085,
     "durability": 80,
     "id": "c064cf60d94",
@@ -21255,6 +21357,23 @@
       "fr": "Cuissardes de protecteur en cuir de planeur vert",
       "ja": "グリーングライダー・ディフェンダーサイブーツ",
       "ko": "Gliderskin Thighboots of Fending"
+    },
+    "suggestedCraftsmanship": 1457
+  },
+  {
+    "baseLevel": 73,
+    "difficulty": 3348,
+    "durability": 60,
+    "id": "5bf2c84afe7",
+    "level": 400,
+    "maxQuality": 11249,
+    "name": {
+      "cn": "Rehabilitation Aids",
+      "de": "Rehabilitations-Hilfsmittel",
+      "en": "Rehabilitation Aids",
+      "fr": "Matériel de rééducation",
+      "ja": "記念病院の機能回復訓練用品",
+      "ko": "Rehabilitation Aids"
     },
     "suggestedCraftsmanship": 1457
   },
@@ -21874,6 +21993,23 @@
     "baseLevel": 75,
     "difficulty": 3467,
     "durability": 60,
+    "id": "0122ae9cff3",
+    "level": 406,
+    "maxQuality": 11921,
+    "name": {
+      "cn": "High Tea Essentials",
+      "de": "Teestunden-Utensilien",
+      "en": "High Tea Essentials",
+      "fr": "Articles de goûter dînatoire",
+      "ja": "記念病院の茶会用品",
+      "ko": "High Tea Essentials"
+    },
+    "suggestedCraftsmanship": 1539
+  },
+  {
+    "baseLevel": 75,
+    "difficulty": 3467,
+    "durability": 60,
     "id": "b1b1944a69f",
     "level": 406,
     "maxQuality": 11921,
@@ -22107,6 +22243,23 @@
       "ko": "Zonureskin Sandals of Casting"
     },
     "suggestedCraftsmanship": 1580
+  },
+  {
+    "baseLevel": 77,
+    "difficulty": 3586,
+    "durability": 60,
+    "id": "713bae28206",
+    "level": 412,
+    "maxQuality": 12593,
+    "name": {
+      "cn": "Art Supplies",
+      "de": "Künstlerbedarf",
+      "en": "Art Supplies",
+      "fr": "Matériel créatif",
+      "ja": "記念病院の絵画道具",
+      "ko": "Art Supplies"
+    },
+    "suggestedCraftsmanship": 1621
   },
   {
     "baseLevel": 77,
@@ -22683,6 +22836,23 @@
       "fr": "Habit de travail de restauration (3e phase)",
       "ja": "第三次復興用の作業着",
       "ko": "Grade 3 Skybuilders' Overalls"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 60,
+    "id": "8308192e6ea",
+    "level": 430,
+    "maxQuality": 36524,
+    "name": {
+      "cn": "Grade 4 Skybuilders' Overalls",
+      "de": "Himmelsang-Arbeitsmontur",
+      "en": "Grade 4 Skybuilders' Overalls",
+      "fr": "Habit de travail de restauration (4e phase)",
+      "ja": "第四次復興用の作業着",
+      "ko": "Grade 4 Skybuilders' Overalls"
     },
     "suggestedCraftsmanship": 1866
   },
@@ -23865,7 +24035,7 @@
     "maxQuality": 28331,
     "name": {
       "cn": "Calfskin Rider's Gloves",
-      "de": "Paar Kalbsleder-Bikerhandschuhe",
+      "de": "Kalbsleder-Bikerhandschuhe",
       "en": "Calfskin Rider's Gloves",
       "fr": "Gants de biker en cuir de veau",
       "ja": "カーフスキン・ライダースグローブ",
@@ -23901,7 +24071,7 @@
     "maxQuality": 28331,
     "name": {
       "cn": "Calfskin Rider's Shoes",
-      "de": "Paar Kalbsleder-Bikerstiefel",
+      "de": "Kalbsleder-Bikerschuhe",
       "en": "Calfskin Rider's Shoes",
       "fr": "Chaussures de biker en cuir de veau",
       "ja": "カーフスキン・ライダースシューズ",
@@ -24178,6 +24348,60 @@
   },
   {
     "baseLevel": 80,
+    "difficulty": 5543,
+    "durability": 70,
+    "id": "a39d177670d",
+    "level": 510,
+    "maxQuality": 28331,
+    "name": {
+      "cn": "Frontier Jacket",
+      "de": "Grenzland-Jacke",
+      "en": "Frontier Jacket",
+      "fr": "Jaque des nouvelles frontières",
+      "ja": "フロンティアジャケット",
+      "ko": "Frontier Jacket"
+    },
+    "stars": 4,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 5543,
+    "durability": 70,
+    "id": "d88a190811e",
+    "level": 510,
+    "maxQuality": 28331,
+    "name": {
+      "cn": "Frontier Pumps",
+      "de": "Grenzland-Pumps",
+      "en": "Frontier Pumps",
+      "fr": "Escarpins des nouvelles frontières",
+      "ja": "フロンティアパンプス",
+      "ko": "Frontier Pumps"
+    },
+    "stars": 4,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 5543,
+    "durability": 70,
+    "id": "62c719ccdfa",
+    "level": 510,
+    "maxQuality": 28331,
+    "name": {
+      "cn": "Frontier Shoes",
+      "de": "Grenzland-Schuhe",
+      "en": "Frontier Shoes",
+      "fr": "Chaussures des nouvelles frontières",
+      "ja": "フロンティアシューズ",
+      "ko": "Frontier Shoes"
+    },
+    "stars": 4,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
     "difficulty": 11126,
     "durability": 50,
     "id": "c58f698c9b9",
@@ -24190,6 +24414,81 @@
       "fr": "Chaise en cuir sur commande de restauration (3e phase)",
       "ja": "第三次復興用の特注レザーチェア",
       "ko": "Grade 3 Artisanal Skybuilders' Leather Chair"
+    },
+    "stars": 4,
+    "suggestedControl": 2540,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 12046,
+    "durability": 55,
+    "id": "a7f3abe13af",
+    "level": 510,
+    "maxQuality": 81447,
+    "name": {
+      "cn": "Grade 4 Artisanal Skybuilders' Tool Belt",
+      "de": "Sonderbestellter Himmelsang-Werkzeuggürtel",
+      "en": "Grade 4 Artisanal Skybuilders' Tool Belt",
+      "fr": "Ceinture à outils sur commande de restauration (4e phase)",
+      "ja": "第四次復興用の特注ツールベルト",
+      "ko": "Grade 4 Artisanal Skybuilders' Tool Belt"
+    },
+    "stars": 4,
+    "suggestedControl": 2540,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 10049,
+    "durability": 60,
+    "id": "4b47c5757b9",
+    "level": 510,
+    "maxQuality": 76939,
+    "name": {
+      "cn": "Oddly Delicate Gazelle Leather",
+      "de": "Gazellenleder zur Himmelsstahl-Werkzeug-Vollendung",
+      "en": "Oddly Delicate Gazelle Leather",
+      "fr": "Cuir de gazelle d'affinage final",
+      "ja": "最終改良用のガゼルレザー",
+      "ko": "Oddly Delicate Gazelle Leather"
+    },
+    "stars": 4,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 12089,
+    "durability": 55,
+    "id": "6581f6b8c8e",
+    "level": 510,
+    "maxQuality": 75378,
+    "name": {
+      "cn": "Resplendent Leatherworker's Component A",
+      "de": "Tertiärbauteil für Gerber-Prachtwerkzeuge",
+      "en": "Resplendent Leatherworker's Component A",
+      "fr": "Composant pour outil resplendissant I (tanneur)",
+      "ja": "リスプレンデントツールの一次加工部材:革細工",
+      "ko": "Resplendent Leatherworker's Component A"
+    },
+    "stars": 4,
+    "suggestedControl": 2540,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 12132,
+    "durability": 55,
+    "id": "1dacabea124",
+    "level": 510,
+    "maxQuality": 78180,
+    "name": {
+      "cn": "Resplendent Leatherworker's Component B",
+      "de": "Sekundärbauteil für Gerber-Prachtwerkzeuge",
+      "en": "Resplendent Leatherworker's Component B",
+      "fr": "Composant pour outil resplendissant II (tanneur)",
+      "ja": "リスプレンデントツールの二次加工部材:革細工",
+      "ko": "Resplendent Leatherworker's Component B"
     },
     "stars": 4,
     "suggestedControl": 2540,
@@ -24211,6 +24510,25 @@
       "ko": "Thylacoleo Leather"
     },
     "stars": 4,
+    "suggestedControl": 2540,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 13024,
+    "durability": 60,
+    "id": "b54c847ca75",
+    "level": 540,
+    "maxQuality": 85033,
+    "name": {
+      "cn": "Resplendent Leatherworker's Component C",
+      "de": "Primärbauteil für Gerber-Prachtwerkzeuge",
+      "en": "Resplendent Leatherworker's Component C",
+      "fr": "Composant pour outil resplendissant III (tanneur)",
+      "ja": "リスプレンデントツールの三次加工部材:革細工",
+      "ko": "Resplendent Leatherworker's Component C"
+    },
+    "stars": 5,
     "suggestedControl": 2540,
     "suggestedCraftsmanship": 2620
   }

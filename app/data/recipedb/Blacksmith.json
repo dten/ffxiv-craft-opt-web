@@ -1923,6 +1923,23 @@
   {
     "baseLevel": 20,
     "difficulty": 74,
+    "durability": 60,
+    "id": "c6499841cc5",
+    "level": 20,
+    "maxQuality": 1263,
+    "name": {
+      "cn": "Grade 4 Skybuilders' Alloy",
+      "de": "Himmelsang-Legierung",
+      "en": "Grade 4 Skybuilders' Alloy",
+      "fr": "Alliage métallique de restauration (4e phase)",
+      "ja": "第四次復興用の合金",
+      "ko": "Grade 4 Skybuilders' Alloy"
+    },
+    "suggestedCraftsmanship": 94
+  },
+  {
+    "baseLevel": 20,
+    "difficulty": 74,
     "durability": 70,
     "id": "c8fb2b6d4bd",
     "level": 20,
@@ -2898,7 +2915,7 @@
     "maxQuality": 1584,
     "name": {
       "cn": "天上蓝染剂",
-      "de": "Jadegrüner Farbstoff",
+      "de": "Azurblauer Farbstoff",
       "en": "Celeste Green Dye",
       "fr": "Teinture vert céleste",
       "ja": "カララント:セレストグリーン",
@@ -4314,6 +4331,23 @@
       "fr": "Clous de restauration (3e phase)",
       "ja": "第三次復興用の鉄釘",
       "ko": "Grade 3 Skybuilders' Nails"
+    },
+    "suggestedCraftsmanship": 136
+  },
+  {
+    "baseLevel": 40,
+    "difficulty": 138,
+    "durability": 60,
+    "id": "3fd81b8da1b",
+    "level": 40,
+    "maxQuality": 4100,
+    "name": {
+      "cn": "Grade 4 Skybuilders' Nails",
+      "de": "Himmelsang-Eisennägel",
+      "en": "Grade 4 Skybuilders' Nails",
+      "fr": "Clous de restauration (4e phase)",
+      "ja": "第四次復興用の鉄釘",
+      "ko": "Grade 4 Skybuilders' Nails"
     },
     "suggestedCraftsmanship": 136
   },
@@ -10032,6 +10066,23 @@
     "baseLevel": 60,
     "difficulty": 956,
     "durability": 60,
+    "id": "20c1fc86f3e",
+    "level": 150,
+    "maxQuality": 15702,
+    "name": {
+      "cn": "Grade 4 Skybuilders' Hatchet",
+      "de": "Himmelsang-Handbeil",
+      "en": "Grade 4 Skybuilders' Hatchet",
+      "fr": "Hachette de restauration (4e phase)",
+      "ja": "第四次復興用のハチェット",
+      "ko": "Grade 4 Skybuilders' Hatchet"
+    },
+    "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 956,
+    "durability": 60,
     "id": "93a99efaaec",
     "level": 150,
     "maxQuality": 6280,
@@ -15114,6 +15165,23 @@
   },
   {
     "baseLevel": 70,
+    "difficulty": 2214,
+    "durability": 60,
+    "id": "f326bfde0ce",
+    "level": 290,
+    "maxQuality": 32860,
+    "name": {
+      "cn": "Grade 4 Skybuilders' Crosscut Saw",
+      "de": "Himmelsang-Säge",
+      "en": "Grade 4 Skybuilders' Crosscut Saw",
+      "fr": "Grande scie de restauration (4e phase)",
+      "ja": "第四次復興用の大鋸",
+      "ko": "Grade 4 Skybuilders' Crosscut Saw"
+    },
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
     "difficulty": 2435,
     "durability": 70,
     "id": "ee484625d58",
@@ -15644,6 +15712,132 @@
     "baseLevel": 70,
     "difficulty": 2657,
     "durability": 70,
+    "id": "596b7f50772",
+    "level": 320,
+    "maxQuality": 12511,
+    "name": {
+      "cn": "Byakko's Enspirited Fists",
+      "de": "Belebte Byakko-Fäuste",
+      "en": "Byakko's Enspirited Fists",
+      "fr": "Poings de Byakko flamboyants",
+      "ja": "白虎闘手甲【輝】",
+      "ko": "Byakko's Enspirited Fists"
+    },
+    "stars": 2,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2657,
+    "durability": 70,
+    "id": "e3bc0029369",
+    "level": 320,
+    "maxQuality": 12511,
+    "name": {
+      "cn": "Byakko's Enspirited Greataxe",
+      "de": "Belebte Byakko-Kriegsaxt",
+      "en": "Byakko's Enspirited Greataxe",
+      "fr": "Grande hache de Byakko flamboyante",
+      "ja": "白虎大斧【輝】",
+      "ko": "Byakko's Enspirited Greataxe"
+    },
+    "stars": 2,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2657,
+    "durability": 70,
+    "id": "c7d36de7e69",
+    "level": 320,
+    "maxQuality": 12511,
+    "name": {
+      "cn": "Byakko's Enspirited Greatsword",
+      "de": "Belebtes Byakko-Großschwert",
+      "en": "Byakko's Enspirited Greatsword",
+      "fr": "Grande épée de Byakko flamboyante",
+      "ja": "白虎斬馬刀【輝】",
+      "ko": "Byakko's Enspirited Greatsword"
+    },
+    "stars": 2,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2657,
+    "durability": 70,
+    "id": "a0575572d9f",
+    "level": 320,
+    "maxQuality": 12511,
+    "name": {
+      "cn": "Byakko's Enspirited Handscythes",
+      "de": "Belebte Byakko-Handsensen",
+      "en": "Byakko's Enspirited Handscythes",
+      "fr": "Faucilles de Byakko flamboyantes",
+      "ja": "白虎忍鎌【輝】",
+      "ko": "Byakko's Enspirited Handscythes"
+    },
+    "stars": 2,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2657,
+    "durability": 70,
+    "id": "aa59680bf67",
+    "level": 320,
+    "maxQuality": 12511,
+    "name": {
+      "cn": "Byakko's Enspirited Katana",
+      "de": "Belebtes Byakko-Katana",
+      "en": "Byakko's Enspirited Katana",
+      "fr": "Katana de Byakko flamboyant",
+      "ja": "白虎刀【輝】",
+      "ko": "Byakko's Enspirited Katana"
+    },
+    "stars": 2,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2657,
+    "durability": 70,
+    "id": "2dab6dc7d73",
+    "level": 320,
+    "maxQuality": 12511,
+    "name": {
+      "cn": "Byakko's Enspirited Revolver",
+      "de": "Belebter Byakko-Revolver",
+      "en": "Byakko's Enspirited Revolver",
+      "fr": "Revolver de Byakko flamboyant",
+      "ja": "白虎短銃【輝】",
+      "ko": "Byakko's Enspirited Revolver"
+    },
+    "stars": 2,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2657,
+    "durability": 70,
+    "id": "b85faef3ef3",
+    "level": 320,
+    "maxQuality": 12511,
+    "name": {
+      "cn": "Byakko's Enspirited Stone Sword",
+      "de": "Belebtes Byakko-Steinschwert",
+      "en": "Byakko's Enspirited Stone Sword",
+      "fr": "Épée de pierre de Byakko flamboyante",
+      "ja": "白虎石剣【輝】",
+      "ko": "Byakko's Enspirited Stone Sword"
+    },
+    "stars": 2,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2657,
+    "durability": 70,
     "id": "191330e5f91",
     "level": 320,
     "maxQuality": 12511,
@@ -15820,7 +16014,7 @@
     "maxQuality": 12511,
     "name": {
       "cn": "Seiryu's Sanctified Daggers",
-      "de": "Dolche des Schlangengotts",
+      "de": "Dolche des Schlangengottes",
       "en": "Seiryu's Sanctified Daggers",
       "fr": "Dagues de Seiryû flamboyantes",
       "ja": "青龍短刀【輝】",
@@ -15838,7 +16032,7 @@
     "maxQuality": 12511,
     "name": {
       "cn": "Seiryu's Sanctified Katana",
-      "de": "Katana des Schlangengotts",
+      "de": "Katana des Schlangengottes",
       "en": "Seiryu's Sanctified Katana",
       "fr": "Squame de Seiryû flamboyante",
       "ja": "青龍鱗紋刀【輝】",
@@ -15856,7 +16050,7 @@
     "maxQuality": 12511,
     "name": {
       "cn": "Seiryu's Sanctified Lance",
-      "de": "Lanze des Schlangengotts",
+      "de": "Lanze des Schlangengottes",
       "en": "Seiryu's Sanctified Lance",
       "fr": "Lance de Seiryû flamboyante",
       "ja": "青龍長槍【輝】",
@@ -15874,7 +16068,7 @@
     "maxQuality": 12511,
     "name": {
       "cn": "Seiryu's Sanctified Longsword",
-      "de": "Langschwert des Schlangengotts",
+      "de": "Langschwert des Schlangengottes",
       "en": "Seiryu's Sanctified Longsword",
       "fr": "Épée droite de Seiryû flamboyante",
       "ja": "青龍直剣【輝】",
@@ -15892,7 +16086,7 @@
     "maxQuality": 12511,
     "name": {
       "cn": "Seiryu's Sanctified Revolver",
-      "de": "Revolver des Schlangengotts",
+      "de": "Revolver des Schlangengottes",
       "en": "Seiryu's Sanctified Revolver",
       "fr": "Arquebuse de Seiryû flamboyante",
       "ja": "青龍短筒【輝】",
@@ -15910,7 +16104,7 @@
     "maxQuality": 12511,
     "name": {
       "cn": "Seiryu's Sanctified Spine",
-      "de": "Großschwert des Schlangengotts",
+      "de": "Großschwert des Schlangengottes",
       "en": "Seiryu's Sanctified Spine",
       "fr": "Épine de Seiryû flamboyante",
       "ja": "青龍蛇腹剣【輝】",
@@ -15928,7 +16122,7 @@
     "maxQuality": 12511,
     "name": {
       "cn": "Seiryu's Sanctified Tekko",
-      "de": "Tekko des Schlangengotts",
+      "de": "Tekko des Schlangengottes",
       "en": "Seiryu's Sanctified Tekko",
       "fr": "Tekkô tranchants de Seiryû flamboyants",
       "ja": "青龍手甲剣【輝】",
@@ -15946,7 +16140,7 @@
     "maxQuality": 12511,
     "name": {
       "cn": "Seiryu's Sanctified War Axe",
-      "de": "Kriegsaxt des Schlangengotts",
+      "de": "Kriegsaxt des Schlangengottes",
       "en": "Seiryu's Sanctified War Axe",
       "fr": "Hache de guerre de Seiryû flamboyante",
       "ja": "青龍戦斧【輝】",
@@ -17491,6 +17685,23 @@
     "suggestedCraftsmanship": 1320
   },
   {
+    "baseLevel": 71,
+    "difficulty": 3149,
+    "durability": 60,
+    "id": "331df5ca9db",
+    "level": 390,
+    "maxQuality": 10468,
+    "name": {
+      "cn": "Patient Necessities",
+      "de": "Alltägliche Bedarfsgüter",
+      "en": "Patient Necessities",
+      "fr": "Articles du quotidien",
+      "ja": "記念病院の日用品",
+      "ko": "Patient Necessities"
+    },
+    "suggestedCraftsmanship": 1320
+  },
+  {
     "baseLevel": 72,
     "difficulty": 3248,
     "durability": 60,
@@ -17628,6 +17839,23 @@
   },
   {
     "baseLevel": 72,
+    "difficulty": 3248,
+    "durability": 60,
+    "id": "b7320e2f4d1",
+    "level": 395,
+    "maxQuality": 10928,
+    "name": {
+      "cn": "Medical Supplies",
+      "de": "Medizinische Versorgungsgüter",
+      "en": "Medical Supplies",
+      "fr": "Matériel médical",
+      "ja": "記念病院の医療品",
+      "ko": "Medical Supplies"
+    },
+    "suggestedCraftsmanship": 1388
+  },
+  {
+    "baseLevel": 72,
     "difficulty": 3085,
     "durability": 80,
     "id": "ce48de0771c",
@@ -17759,6 +17987,23 @@
       "fr": "Pot en métal",
       "ja": "金属製の食材容器",
       "ko": "Metal Worm Jar"
+    },
+    "suggestedCraftsmanship": 1457
+  },
+  {
+    "baseLevel": 73,
+    "difficulty": 3348,
+    "durability": 60,
+    "id": "628f6f547d8",
+    "level": 400,
+    "maxQuality": 11249,
+    "name": {
+      "cn": "Rehabilitation Aids",
+      "de": "Rehabilitations-Hilfsmittel",
+      "en": "Rehabilitation Aids",
+      "fr": "Matériel de rééducation",
+      "ja": "記念病院の機能回復訓練用品",
+      "ko": "Rehabilitation Aids"
     },
     "suggestedCraftsmanship": 1457
   },
@@ -18155,6 +18400,23 @@
   },
   {
     "baseLevel": 75,
+    "difficulty": 3467,
+    "durability": 60,
+    "id": "f7b065dad1c",
+    "level": 406,
+    "maxQuality": 11921,
+    "name": {
+      "cn": "High Tea Essentials",
+      "de": "Teestunden-Utensilien",
+      "en": "High Tea Essentials",
+      "fr": "Articles de goûter dînatoire",
+      "ja": "記念病院の茶会用品",
+      "ko": "High Tea Essentials"
+    },
+    "suggestedCraftsmanship": 1539
+  },
+  {
+    "baseLevel": 75,
     "difficulty": 2426,
     "durability": 80,
     "id": "8fc39b0a301",
@@ -18407,6 +18669,23 @@
       "ko": "Titanbronze Uchigatana"
     },
     "suggestedCraftsmanship": 1580
+  },
+  {
+    "baseLevel": 77,
+    "difficulty": 3586,
+    "durability": 60,
+    "id": "54f35775af3",
+    "level": 412,
+    "maxQuality": 12593,
+    "name": {
+      "cn": "Art Supplies",
+      "de": "Künstlerbedarf",
+      "en": "Art Supplies",
+      "fr": "Matériel créatif",
+      "ja": "記念病院の絵画道具",
+      "ko": "Art Supplies"
+    },
+    "suggestedCraftsmanship": 1621
   },
   {
     "baseLevel": 77,
@@ -19295,6 +19574,23 @@
   {
     "baseLevel": 80,
     "difficulty": 3943,
+    "durability": 80,
+    "id": "565a47920c1",
+    "level": 430,
+    "maxQuality": 9131,
+    "name": {
+      "cn": "Garden Anvil",
+      "de": "Gartenamboss",
+      "en": "Garden Anvil",
+      "fr": "Enclume de forgeron",
+      "ja": "ガーデンアンビル",
+      "ko": "Garden Anvil"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
     "durability": 60,
     "id": "5c4629ac660",
     "level": 430,
@@ -19329,6 +19625,23 @@
   {
     "baseLevel": 80,
     "difficulty": 3943,
+    "durability": 60,
+    "id": "b92694c91f9",
+    "level": 430,
+    "maxQuality": 36524,
+    "name": {
+      "cn": "Grade 4 Skybuilders' Oven",
+      "de": "Himmelsang-Ofen",
+      "en": "Grade 4 Skybuilders' Oven",
+      "fr": "Four de restauration (4e phase)",
+      "ja": "第四次復興用の焜炉",
+      "ko": "Grade 4 Skybuilders' Oven"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
     "durability": 80,
     "id": "47200697356",
     "level": 430,
@@ -19347,6 +19660,23 @@
     "baseLevel": 80,
     "difficulty": 3943,
     "durability": 80,
+    "id": "ad93b8540c4",
+    "level": 430,
+    "maxQuality": 9131,
+    "name": {
+      "cn": "Materiel Table",
+      "de": "Trainingstisch",
+      "en": "Materiel Table",
+      "fr": "Table d'avant-poste",
+      "ja": "アウトポストテーブル",
+      "ko": "Materiel Table"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
     "id": "c3dc42e6cef",
     "level": 430,
     "maxQuality": 18262,
@@ -19357,6 +19687,23 @@
       "fr": "Clous d'affinage",
       "ja": "改良用のリベット",
       "ko": "Oddly Specific Rivets"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
+    "id": "324b0afe39f",
+    "level": 430,
+    "maxQuality": 9131,
+    "name": {
+      "cn": "Pub Signboard",
+      "de": "Kneipenstandtafel",
+      "en": "Pub Signboard",
+      "fr": "Tableau d'informations : taverne",
+      "ja": "スタンディングサインボード:パブ",
+      "ko": "Pub Signboard"
     },
     "suggestedCraftsmanship": 1866
   },
@@ -19481,6 +19828,186 @@
     },
     "stars": 2,
     "suggestedControl": 1990,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 4343,
+    "durability": 70,
+    "id": "7ec49a73ac5",
+    "level": 450,
+    "maxQuality": 23395,
+    "name": {
+      "cn": "Augmented Aischune",
+      "de": "Modifiziertes Aischune",
+      "en": "Augmented Aischune",
+      "fr": "Aischune améliorée",
+      "ja": "アイスクーネRE",
+      "ko": "Augmented Aischune"
+    },
+    "stars": 2,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 4343,
+    "durability": 70,
+    "id": "819b5e037fa",
+    "level": 450,
+    "maxQuality": 23395,
+    "name": {
+      "cn": "Augmented Ekplexis",
+      "de": "Modifiziertes Ekplexis",
+      "en": "Augmented Ekplexis",
+      "fr": "Ekplexis améliorée",
+      "ja": "エクプレックシスRE",
+      "ko": "Augmented Ekplexis"
+    },
+    "stars": 2,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 4343,
+    "durability": 70,
+    "id": "cb3c85c4e54",
+    "level": 450,
+    "maxQuality": 23395,
+    "name": {
+      "cn": "Augmented Eleos",
+      "de": "Modifiziertes Eleos",
+      "en": "Augmented Eleos",
+      "fr": "Eleos amélioré",
+      "ja": "エレオスRE",
+      "ko": "Augmented Eleos"
+    },
+    "stars": 2,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 4343,
+    "durability": 70,
+    "id": "dcef83baa8d",
+    "level": 450,
+    "maxQuality": 23395,
+    "name": {
+      "cn": "Augmented Menis",
+      "de": "Modifizierter Menis",
+      "en": "Augmented Menis",
+      "fr": "Menis améliorée",
+      "ja": "メニスRE",
+      "ko": "Augmented Menis"
+    },
+    "stars": 2,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 4343,
+    "durability": 70,
+    "id": "25c65ee100f",
+    "level": 450,
+    "maxQuality": 23395,
+    "name": {
+      "cn": "Augmented Misos",
+      "de": "Modifiziertes Misos",
+      "en": "Augmented Misos",
+      "fr": "Misos amélioré",
+      "ja": "ミソスRE",
+      "ko": "Augmented Misos"
+    },
+    "stars": 2,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 4343,
+    "durability": 70,
+    "id": "9708f7dda71",
+    "level": 450,
+    "maxQuality": 23395,
+    "name": {
+      "cn": "Augmented Odune",
+      "de": "Modifizierter Odune",
+      "en": "Augmented Odune",
+      "fr": "Odune améliorée",
+      "ja": "オデゥネRE",
+      "ko": "Augmented Odune"
+    },
+    "stars": 2,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 4343,
+    "durability": 70,
+    "id": "f02307e7cf4",
+    "level": 450,
+    "maxQuality": 23395,
+    "name": {
+      "cn": "Augmented Phthonos",
+      "de": "Modifizierte Phthonos",
+      "en": "Augmented Phthonos",
+      "fr": "Phthonos améliorés",
+      "ja": "ファトノスRE",
+      "ko": "Augmented Phthonos"
+    },
+    "stars": 2,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 4343,
+    "durability": 70,
+    "id": "9a2185db283",
+    "level": 450,
+    "maxQuality": 23395,
+    "name": {
+      "cn": "Augmented Thumosis",
+      "de": "Modifiziertes Thumosis",
+      "en": "Augmented Thumosis",
+      "fr": "Thumosis améliorée",
+      "ja": "スモシスRE",
+      "ko": "Augmented Thumosis"
+    },
+    "stars": 2,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 4343,
+    "durability": 70,
+    "id": "21d0ef78e54",
+    "level": 450,
+    "maxQuality": 23395,
+    "name": {
+      "cn": "Augmented Zelos",
+      "de": "Modifizierte Zelos",
+      "en": "Augmented Zelos",
+      "fr": "Zelos améliorés",
+      "ja": "ゼロスRE",
+      "ko": "Augmented Zelos"
+    },
+    "stars": 2,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 4343,
+    "durability": 70,
+    "id": "e5cb65fa21f",
+    "level": 450,
+    "maxQuality": 23395,
+    "name": {
+      "cn": "Augmented Zelotupia",
+      "de": "Modifizierte Zelotupia",
+      "en": "Augmented Zelotupia",
+      "fr": "Zelotupia améliorées",
+      "ja": "ゼロチュピアRE",
+      "ko": "Augmented Zelotupia"
+    },
+    "stars": 2,
     "suggestedCraftsmanship": 2140
   },
   {
@@ -20731,6 +21258,100 @@
       "ko": "Grade 3 Artisanal Skybuilders' Smithing Bench"
     },
     "stars": 4,
+    "suggestedControl": 2540,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 12046,
+    "durability": 55,
+    "id": "63b423a555a",
+    "level": 510,
+    "maxQuality": 81447,
+    "name": {
+      "cn": "Grade 4 Artisanal Skybuilders' Chocobo Weathervane",
+      "de": "Sonderbestellter Himmelsang-Wetterchocobo",
+      "en": "Grade 4 Artisanal Skybuilders' Chocobo Weathervane",
+      "fr": "Girouette chocobo sur commande de restauration (4e phase)",
+      "ja": "第四次復興用の特注ウェザーチョコボ",
+      "ko": "Grade 4 Artisanal Skybuilders' Chocobo Weathervane"
+    },
+    "stars": 4,
+    "suggestedControl": 2540,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 10049,
+    "durability": 60,
+    "id": "ed142cbb422",
+    "level": 510,
+    "maxQuality": 76939,
+    "name": {
+      "cn": "Oddly Delicate Silver Gear",
+      "de": "Silberzahnrad zur Himmelsstahl-Werkzeug-Vollendung",
+      "en": "Oddly Delicate Silver Gear",
+      "fr": "Pignon argenté d'affinage final",
+      "ja": "最終改良用のシルバーギア",
+      "ko": "Oddly Delicate Silver Gear"
+    },
+    "stars": 4,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 12089,
+    "durability": 55,
+    "id": "16aac229071",
+    "level": 510,
+    "maxQuality": 75378,
+    "name": {
+      "cn": "Resplendent Blacksmith's Component A",
+      "de": "Tertiärbauteil für Grobschmied-Prachtwerkzeuge",
+      "en": "Resplendent Blacksmith's Component A",
+      "fr": "Composant pour outil resplendissant I (forgeron)",
+      "ja": "リスプレンデントツールの一次加工部材:鍛冶",
+      "ko": "Resplendent Blacksmith's Component A"
+    },
+    "stars": 4,
+    "suggestedControl": 2540,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 12132,
+    "durability": 55,
+    "id": "6af72b5ef18",
+    "level": 510,
+    "maxQuality": 78180,
+    "name": {
+      "cn": "Resplendent Blacksmith's Component B",
+      "de": "Sekundärbauteil für Grobschmied-Prachtwerkzeuge",
+      "en": "Resplendent Blacksmith's Component B",
+      "fr": "Composant pour outil resplendissant II (forgeron)",
+      "ja": "リスプレンデントツールの二次加工部材:鍛冶",
+      "ko": "Resplendent Blacksmith's Component B"
+    },
+    "stars": 4,
+    "suggestedControl": 2540,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 13024,
+    "durability": 60,
+    "id": "38028121466",
+    "level": 540,
+    "maxQuality": 85033,
+    "name": {
+      "cn": "Resplendent Blacksmith's Component C",
+      "de": "Primärbauteil für Grobschmied-Prachtwerkzeuge",
+      "en": "Resplendent Blacksmith's Component C",
+      "fr": "Composant pour outil resplendissant III (forgeron)",
+      "ja": "リスプレンデントツールの三次加工部材:鍛冶",
+      "ko": "Resplendent Blacksmith's Component C"
+    },
+    "stars": 5,
     "suggestedControl": 2540,
     "suggestedCraftsmanship": 2620
   }
