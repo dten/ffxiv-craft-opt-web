@@ -267,6 +267,13 @@ function ApplyModifiers(s, action, condition) {
     }
     successProbability = Math.min(successProbability, 1);
 
+    // Add combo bonus following Basic Touch
+    if (isActionEq(action, AllActions.standardTouch)) {
+        if (s.action === AllActions.basicTouch.shortName) {
+            cpCost = 18;
+        }
+    }
+
     // Effects modifying durability cost
     var durabilityCost = action.durabilityCost;
     if ((AllActions.wasteNot.shortName in s.effects.countDowns) || (AllActions.wasteNot2.shortName in s.effects.countDowns)) {
