@@ -1396,6 +1396,23 @@
   {
     "baseLevel": 20,
     "difficulty": 74,
+    "durability": 60,
+    "id": "6ec8aca9655",
+    "level": 20,
+    "maxQuality": 1263,
+    "name": {
+      "cn": "Grade 4 Skybuilders' Ink",
+      "de": "Himmelsang-Tinte",
+      "en": "Grade 4 Skybuilders' Ink",
+      "fr": "Encre de restauration (4e phase)",
+      "ja": "第四次復興用のインク",
+      "ko": "Grade 4 Skybuilders' Ink"
+    },
+    "suggestedCraftsmanship": 94
+  },
+  {
+    "baseLevel": 20,
+    "difficulty": 74,
     "durability": 70,
     "id": "a6441a394a5",
     "level": 20,
@@ -2082,7 +2099,7 @@
     "maxQuality": 1584,
     "name": {
       "cn": "天上蓝染剂",
-      "de": "Jadegrüner Farbstoff",
+      "de": "Azurblauer Farbstoff",
       "en": "Celeste Green Dye",
       "fr": "Teinture vert céleste",
       "ja": "カララント:セレストグリーン",
@@ -3328,6 +3345,23 @@
       "fr": "Huile végétale de restauration (3e phase)",
       "ja": "第三次復興用の植物油",
       "ko": "Grade 3 Skybuilders' Plant Oil"
+    },
+    "suggestedCraftsmanship": 136
+  },
+  {
+    "baseLevel": 40,
+    "difficulty": 138,
+    "durability": 60,
+    "id": "cdb40f1ee1e",
+    "level": 40,
+    "maxQuality": 4100,
+    "name": {
+      "cn": "Grade 4 Skybuilders' Plant Oil",
+      "de": "Himmelsang-Pflanzenöl",
+      "en": "Grade 4 Skybuilders' Plant Oil",
+      "fr": "Huile végétale de restauration (4e phase)",
+      "ja": "第四次復興用の植物油",
+      "ko": "Grade 4 Skybuilders' Plant Oil"
     },
     "suggestedCraftsmanship": 136
   },
@@ -9339,6 +9373,23 @@
     "baseLevel": 60,
     "difficulty": 956,
     "durability": 60,
+    "id": "278f49e3076",
+    "level": 150,
+    "maxQuality": 15702,
+    "name": {
+      "cn": "Grade 4 Skybuilders' Holy Water",
+      "de": "Himmelsang-Weihwasser",
+      "en": "Grade 4 Skybuilders' Holy Water",
+      "fr": "Eau sacrée de restauration (4e phase)",
+      "ja": "第四次復興用の聖水",
+      "ko": "Grade 4 Skybuilders' Holy Water"
+    },
+    "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 956,
+    "durability": 60,
     "id": "8a5340e0599",
     "level": 150,
     "maxQuality": 6280,
@@ -13405,6 +13456,23 @@
   },
   {
     "baseLevel": 70,
+    "difficulty": 2214,
+    "durability": 60,
+    "id": "15a4cd156bf",
+    "level": 290,
+    "maxQuality": 32860,
+    "name": {
+      "cn": "Grade 4 Skybuilders' Soap",
+      "de": "Himmelsang-Seife",
+      "en": "Grade 4 Skybuilders' Soap",
+      "fr": "Savon de restauration (4e phase)",
+      "ja": "第四次復興用の石鹸",
+      "ko": "Grade 4 Skybuilders' Soap"
+    },
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
     "difficulty": 2435,
     "durability": 70,
     "id": "87e854e889f",
@@ -13847,6 +13915,42 @@
     "baseLevel": 70,
     "difficulty": 2657,
     "durability": 70,
+    "id": "0af57eee3db",
+    "level": 320,
+    "maxQuality": 12511,
+    "name": {
+      "cn": "Byakko's Enspirited Codex",
+      "de": "Belebter Byakko-Kodex",
+      "en": "Byakko's Enspirited Codex",
+      "fr": "Codex de Byakko flamboyant",
+      "ja": "白虎文書【輝】",
+      "ko": "Byakko's Enspirited Codex"
+    },
+    "stars": 2,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2657,
+    "durability": 70,
+    "id": "1552c3d21d8",
+    "level": 320,
+    "maxQuality": 12511,
+    "name": {
+      "cn": "Byakko's Enspirited Grimoire",
+      "de": "Belebtes Byakko-Grimoire",
+      "en": "Byakko's Enspirited Grimoire",
+      "fr": "Grimoire de Byakko flamboyant",
+      "ja": "白虎経典【輝】",
+      "ko": "Byakko's Enspirited Grimoire"
+    },
+    "stars": 2,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2657,
+    "durability": 70,
     "id": "f2a9ce589dd",
     "level": 320,
     "maxQuality": 6255,
@@ -14042,7 +14146,7 @@
     "maxQuality": 12511,
     "name": {
       "cn": "Seiryu's Sanctified Codex",
-      "de": "Kodex des Schlangengotts",
+      "de": "Kodex des Schlangengottes",
       "en": "Seiryu's Sanctified Codex",
       "fr": "Écrit de Seiryû flamboyant",
       "ja": "青龍文書【輝】",
@@ -14060,7 +14164,7 @@
     "maxQuality": 12511,
     "name": {
       "cn": "Seiryu's Sanctified Grimoire",
-      "de": "Grimoire des Schlangengotts",
+      "de": "Grimoire des Schlangengottes",
       "en": "Seiryu's Sanctified Grimoire",
       "fr": "Sûtra de Seiryû flamboyant",
       "ja": "青龍経典【輝】",
@@ -14911,6 +15015,23 @@
   {
     "baseLevel": 71,
     "difficulty": 3149,
+    "durability": 60,
+    "id": "2483cbe06c9",
+    "level": 390,
+    "maxQuality": 10468,
+    "name": {
+      "cn": "Patient Necessities",
+      "de": "Alltägliche Bedarfsgüter",
+      "en": "Patient Necessities",
+      "fr": "Articles du quotidien",
+      "ja": "記念病院の日用品",
+      "ko": "Patient Necessities"
+    },
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 3149,
     "durability": 80,
     "id": "3bb7e503440",
     "level": 390,
@@ -15007,6 +15128,23 @@
       "fr": "Grimoire en cuir de planeur vert",
       "ja": "グリーングライダーグリモア",
       "ko": "Gliderskin Grimoire"
+    },
+    "suggestedCraftsmanship": 1388
+  },
+  {
+    "baseLevel": 72,
+    "difficulty": 3248,
+    "durability": 60,
+    "id": "7186823f523",
+    "level": 395,
+    "maxQuality": 10928,
+    "name": {
+      "cn": "Medical Supplies",
+      "de": "Medizinische Versorgungsgüter",
+      "en": "Medical Supplies",
+      "fr": "Matériel médical",
+      "ja": "記念病院の医療品",
+      "ko": "Medical Supplies"
     },
     "suggestedCraftsmanship": 1388
   },
@@ -15116,6 +15254,23 @@
     "baseLevel": 73,
     "difficulty": 3348,
     "durability": 80,
+    "id": "320b63eb54f",
+    "level": 400,
+    "maxQuality": 14062,
+    "name": {
+      "cn": "Black Moth Orchid Corsage",
+      "de": "Schwarzer Mondorchideen-Ohrring",
+      "en": "Black Moth Orchid Corsage",
+      "fr": "Boucle d'oreille orchidée papillon noir",
+      "ja": "胡蝶蘭耳飾り:黒",
+      "ko": "Black Moth Orchid Corsage"
+    },
+    "suggestedCraftsmanship": 1457
+  },
+  {
+    "baseLevel": 73,
+    "difficulty": 3348,
+    "durability": 80,
     "id": "d308d418542",
     "level": 400,
     "maxQuality": 14062,
@@ -15160,6 +15315,23 @@
       "fr": "Barrette jacinthe bleue",
       "ja": "ヒヤシンスオーナメント:ブルー",
       "ko": "Blue Hyacinth Corsage"
+    },
+    "suggestedCraftsmanship": 1457
+  },
+  {
+    "baseLevel": 73,
+    "difficulty": 3348,
+    "durability": 80,
+    "id": "15d90e7b74d",
+    "level": 400,
+    "maxQuality": 14062,
+    "name": {
+      "cn": "Blue Moth Orchid Corsage",
+      "de": "Blauer Mondorchideen-Ohrring",
+      "en": "Blue Moth Orchid Corsage",
+      "fr": "Boucle d'oreille orchidée papillon bleu",
+      "ja": "胡蝶蘭耳飾り:蒼",
+      "ko": "Blue Moth Orchid Corsage"
     },
     "suggestedCraftsmanship": 1457
   },
@@ -15318,6 +15490,23 @@
   },
   {
     "baseLevel": 73,
+    "difficulty": 3348,
+    "durability": 80,
+    "id": "a1b248e16f8",
+    "level": 400,
+    "maxQuality": 14062,
+    "name": {
+      "cn": "Green Moth Orchid Corsage",
+      "de": "Grüner Mondorchideen-Ohrring",
+      "en": "Green Moth Orchid Corsage",
+      "fr": "Boucle d'oreille orchidée papillon vert",
+      "ja": "胡蝶蘭耳飾り:翠",
+      "ko": "Green Moth Orchid Corsage"
+    },
+    "suggestedCraftsmanship": 1457
+  },
+  {
+    "baseLevel": 73,
     "difficulty": 2343,
     "durability": 80,
     "id": "e2383e0165d",
@@ -15388,6 +15577,23 @@
     "baseLevel": 73,
     "difficulty": 3348,
     "durability": 80,
+    "id": "bc18a618bf9",
+    "level": 400,
+    "maxQuality": 14062,
+    "name": {
+      "cn": "Orange Moth Orchid Corsage",
+      "de": "Oranger Mondorchideen-Ohrring",
+      "en": "Orange Moth Orchid Corsage",
+      "fr": "Boucle d'oreille orchidée papillon orange",
+      "ja": "胡蝶蘭耳飾り:橙",
+      "ko": "Orange Moth Orchid Corsage"
+    },
+    "suggestedCraftsmanship": 1457
+  },
+  {
+    "baseLevel": 73,
+    "difficulty": 3348,
+    "durability": 80,
     "id": "b127b292d46",
     "level": 400,
     "maxQuality": 14062,
@@ -15432,6 +15638,23 @@
       "fr": "Barrette jacinthe violette",
       "ja": "ヒヤシンスオーナメント:パープル",
       "ko": "Purple Hyacinth Corsage"
+    },
+    "suggestedCraftsmanship": 1457
+  },
+  {
+    "baseLevel": 73,
+    "difficulty": 3348,
+    "durability": 80,
+    "id": "6a3f15bf7a4",
+    "level": 400,
+    "maxQuality": 14062,
+    "name": {
+      "cn": "Purple Moth Orchid Corsage",
+      "de": "Violetter Mondorchideen-Ohrring",
+      "en": "Purple Moth Orchid Corsage",
+      "fr": "Boucle d'oreille orchidée papillon violet",
+      "ja": "胡蝶蘭耳飾り:紫",
+      "ko": "Purple Moth Orchid Corsage"
     },
     "suggestedCraftsmanship": 1457
   },
@@ -15490,6 +15713,23 @@
     "baseLevel": 73,
     "difficulty": 3348,
     "durability": 80,
+    "id": "4619e66f8f3",
+    "level": 400,
+    "maxQuality": 14062,
+    "name": {
+      "cn": "Rainbow Moth Orchid Corsage",
+      "de": "Bunter Mondorchideen-Ohrring",
+      "en": "Rainbow Moth Orchid Corsage",
+      "fr": "Boucle d'oreille orchidée papillon multicolore",
+      "ja": "胡蝶蘭耳飾り:彩",
+      "ko": "Rainbow Moth Orchid Corsage"
+    },
+    "suggestedCraftsmanship": 1457
+  },
+  {
+    "baseLevel": 73,
+    "difficulty": 3348,
+    "durability": 80,
     "id": "23ee0e52d69",
     "level": 400,
     "maxQuality": 14062,
@@ -15534,6 +15774,40 @@
       "fr": "Barrette jacinthe rouge",
       "ja": "ヒヤシンスオーナメント:レッド",
       "ko": "Red Hyacinth Corsage"
+    },
+    "suggestedCraftsmanship": 1457
+  },
+  {
+    "baseLevel": 73,
+    "difficulty": 3348,
+    "durability": 80,
+    "id": "fd57727aa44",
+    "level": 400,
+    "maxQuality": 14062,
+    "name": {
+      "cn": "Red Moth Orchid Corsage",
+      "de": "Roter Mondorchideen-Ohrring",
+      "en": "Red Moth Orchid Corsage",
+      "fr": "Boucle d'oreille orchidée papillon rouge",
+      "ja": "胡蝶蘭耳飾り:紅",
+      "ko": "Red Moth Orchid Corsage"
+    },
+    "suggestedCraftsmanship": 1457
+  },
+  {
+    "baseLevel": 73,
+    "difficulty": 3348,
+    "durability": 60,
+    "id": "55f73ae860a",
+    "level": 400,
+    "maxQuality": 11249,
+    "name": {
+      "cn": "Rehabilitation Aids",
+      "de": "Rehabilitations-Hilfsmittel",
+      "en": "Rehabilitation Aids",
+      "fr": "Matériel de rééducation",
+      "ja": "記念病院の機能回復訓練用品",
+      "ko": "Rehabilitation Aids"
     },
     "suggestedCraftsmanship": 1457
   },
@@ -15592,6 +15866,23 @@
     "baseLevel": 73,
     "difficulty": 3348,
     "durability": 80,
+    "id": "55aadc8da90",
+    "level": 400,
+    "maxQuality": 14062,
+    "name": {
+      "cn": "White Moth Orchid Corsage",
+      "de": "Weißer Mondorchideen-Ohrring",
+      "en": "White Moth Orchid Corsage",
+      "fr": "Boucle d'oreille orchidée papillon blanc",
+      "ja": "胡蝶蘭耳飾り:白",
+      "ko": "White Moth Orchid Corsage"
+    },
+    "suggestedCraftsmanship": 1457
+  },
+  {
+    "baseLevel": 73,
+    "difficulty": 3348,
+    "durability": 80,
     "id": "39f347b3f4a",
     "level": 400,
     "maxQuality": 14062,
@@ -15636,6 +15927,23 @@
       "fr": "Barrette jacinthe jaune",
       "ja": "ヒヤシンスオーナメント:イエロー",
       "ko": "Yellow Hyacinth Corsage"
+    },
+    "suggestedCraftsmanship": 1457
+  },
+  {
+    "baseLevel": 73,
+    "difficulty": 3348,
+    "durability": 80,
+    "id": "08ed7716048",
+    "level": 400,
+    "maxQuality": 14062,
+    "name": {
+      "cn": "Yellow Moth Orchid Corsage",
+      "de": "Gelber Mondorchideen-Ohrring",
+      "en": "Yellow Moth Orchid Corsage",
+      "fr": "Boucle d'oreille orchidée papillon jaune",
+      "ja": "胡蝶蘭耳飾り:黄",
+      "ko": "Yellow Moth Orchid Corsage"
     },
     "suggestedCraftsmanship": 1457
   },
@@ -15760,6 +16068,23 @@
   },
   {
     "baseLevel": 75,
+    "difficulty": 3467,
+    "durability": 60,
+    "id": "94cd085e52b",
+    "level": 406,
+    "maxQuality": 11921,
+    "name": {
+      "cn": "High Tea Essentials",
+      "de": "Teestunden-Utensilien",
+      "en": "High Tea Essentials",
+      "fr": "Articles de goûter dînatoire",
+      "ja": "記念病院の茶会用品",
+      "ko": "High Tea Essentials"
+    },
+    "suggestedCraftsmanship": 1539
+  },
+  {
+    "baseLevel": 75,
     "difficulty": 2426,
     "durability": 80,
     "id": "f87eb934fd8",
@@ -15859,6 +16184,23 @@
       "ko": "Refined Natron"
     },
     "suggestedCraftsmanship": 1580
+  },
+  {
+    "baseLevel": 77,
+    "difficulty": 3586,
+    "durability": 60,
+    "id": "348d42681c2",
+    "level": 412,
+    "maxQuality": 12593,
+    "name": {
+      "cn": "Art Supplies",
+      "de": "Künstlerbedarf",
+      "en": "Art Supplies",
+      "fr": "Matériel créatif",
+      "ja": "記念病院の絵画道具",
+      "ko": "Art Supplies"
+    },
+    "suggestedCraftsmanship": 1621
   },
   {
     "baseLevel": 77,
@@ -16187,6 +16529,23 @@
     "baseLevel": 80,
     "difficulty": 3943,
     "durability": 80,
+    "id": "b8fe2fa3c91",
+    "level": 430,
+    "maxQuality": 9131,
+    "name": {
+      "cn": "Cloud Acorn Chandelier",
+      "de": "Eichelleuchter",
+      "en": "Cloud Acorn Chandelier",
+      "fr": "Lustre gland-des-nuages",
+      "ja": "クラウドエーコン・シャンデリア",
+      "ko": "Cloud Acorn Chandelier"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
     "id": "7be39ff4065",
     "level": 430,
     "maxQuality": 9131,
@@ -16254,6 +16613,23 @@
   {
     "baseLevel": 80,
     "difficulty": 3943,
+    "durability": 80,
+    "id": "d7ef05723c2",
+    "level": 430,
+    "maxQuality": 9131,
+    "name": {
+      "cn": "Fruitful Fountain",
+      "de": "Baumfontäne",
+      "en": "Fruitful Fountain",
+      "fr": "Fontaine fruitière",
+      "ja": "プランターファウンテン",
+      "ko": "Fruitful Fountain"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
     "durability": 60,
     "id": "786852285d3",
     "level": 430,
@@ -16282,6 +16658,23 @@
       "fr": "Formule de croissance de restauration (3e phase)",
       "ja": "第三次復興用のグロースフォーミュラ",
       "ko": "Grade 3 Skybuilders' Growth Formula"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 60,
+    "id": "c1e2d6771a8",
+    "level": 430,
+    "maxQuality": 36524,
+    "name": {
+      "cn": "Grade 4 Skybuilders' Growth Formula",
+      "de": "Himmelsang-Wachstumsformel",
+      "en": "Grade 4 Skybuilders' Growth Formula",
+      "fr": "Formule de croissance de restauration (4e phase)",
+      "ja": "第四次復興用のグロースフォーミュラ",
+      "ko": "Grade 4 Skybuilders' Growth Formula"
     },
     "suggestedCraftsmanship": 1866
   },
@@ -16374,6 +16767,23 @@
     "baseLevel": 80,
     "difficulty": 3943,
     "durability": 80,
+    "id": "9b8c7fee3d4",
+    "level": 430,
+    "maxQuality": 9131,
+    "name": {
+      "cn": "Red Brick Counter",
+      "de": "Ziegeltheke",
+      "en": "Red Brick Counter",
+      "fr": "Comptoir en brique",
+      "ja": "ブリックカウンター",
+      "ko": "Red Brick Counter"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
     "id": "b4168086360",
     "level": 430,
     "maxQuality": 9131,
@@ -16425,6 +16835,23 @@
     "baseLevel": 80,
     "difficulty": 3943,
     "durability": 80,
+    "id": "797d48f9a02",
+    "level": 430,
+    "maxQuality": 9131,
+    "name": {
+      "cn": "Storm Blue Interior Wall",
+      "de": "Sturmblaue Tapete",
+      "en": "Storm Blue Interior Wall",
+      "fr": "Revêtement mural bleu tempête",
+      "ja": "ストームブルー・インナーウォール",
+      "ko": "Storm Blue Interior Wall"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
     "id": "a2f511565cf",
     "level": 430,
     "maxQuality": 18262,
@@ -16469,6 +16896,23 @@
       "fr": "Philtre chimérique de force",
       "ja": "剛力の幻薬",
       "ko": "Tincture of Strength"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
+    "id": "11244c03dcc",
+    "level": 430,
+    "maxQuality": 9131,
+    "name": {
+      "cn": "Wanderer's Campfire",
+      "de": "Reise-Lagerfeuer",
+      "en": "Wanderer's Campfire",
+      "fr": "Feu de camp de voyageur",
+      "ja": "放浪者の焚き火",
+      "ko": "Wanderer's Campfire"
     },
     "suggestedCraftsmanship": 1866
   },
@@ -16545,6 +16989,42 @@
     "stars": 1,
     "suggestedControl": 1860,
     "suggestedCraftsmanship": 2000
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 4343,
+    "durability": 70,
+    "id": "a2d3abb58a8",
+    "level": 450,
+    "maxQuality": 23395,
+    "name": {
+      "cn": "Augmented Enochlesis",
+      "de": "Modifizierter Enochlesis",
+      "en": "Augmented Enochlesis",
+      "fr": "Enochlesis amélioré",
+      "ja": "エノクレシスRE",
+      "ko": "Augmented Enochlesis"
+    },
+    "stars": 2,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 4343,
+    "durability": 70,
+    "id": "32ae969db34",
+    "level": 450,
+    "maxQuality": 23395,
+    "name": {
+      "cn": "Augmented Epikairekakia",
+      "de": "Modifiziertes Epikairekakia",
+      "en": "Augmented Epikairekakia",
+      "fr": "Epikairekakia amélioré",
+      "ja": "エピカイルカキアRE",
+      "ko": "Augmented Epikairekakia"
+    },
+    "stars": 2,
+    "suggestedCraftsmanship": 2140
   },
   {
     "baseLevel": 80,
@@ -17264,6 +17744,25 @@
   },
   {
     "baseLevel": 80,
+    "difficulty": 12046,
+    "durability": 55,
+    "id": "fc0b4cc6d5e",
+    "level": 510,
+    "maxQuality": 81447,
+    "name": {
+      "cn": "Grade 4 Artisanal Skybuilders' Tincture",
+      "de": "Sonderbestelltes Himmelsang-Visionsremedium",
+      "en": "Grade 4 Artisanal Skybuilders' Tincture",
+      "fr": "Philtre chimérique sur commande de restauration (4e phase)",
+      "ja": "第四次復興用の特注幻薬",
+      "ko": "Grade 4 Artisanal Skybuilders' Tincture"
+    },
+    "stars": 4,
+    "suggestedControl": 2540,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
     "difficulty": 5820,
     "durability": 35,
     "id": "f3c2e58e0bc",
@@ -17449,6 +17948,99 @@
       "ko": "Grade 4 Vitality Alkahest"
     },
     "stars": 4,
+    "suggestedControl": 2540,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 5543,
+    "durability": 70,
+    "id": "52fbbc2834e",
+    "level": 510,
+    "maxQuality": 28331,
+    "name": {
+      "cn": "In the Arms of War Orchestrion Roll",
+      "de": "Notenrolle von „In the Arms of War“",
+      "en": "In the Arms of War Orchestrion Roll",
+      "fr": "Rouleau \"In the Arms of War\"",
+      "ja": "オーケストリオン譜:孤児たちの戦い",
+      "ko": "In the Arms of War Orchestrion Roll"
+    },
+    "stars": 4,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 10049,
+    "durability": 60,
+    "id": "2c78c1be5d1",
+    "level": 510,
+    "maxQuality": 76939,
+    "name": {
+      "cn": "Oddly Delicate Holy Water",
+      "de": "Heiliges Wasser zur Himmelsstahl-Werkzeug-Vollendung",
+      "en": "Oddly Delicate Holy Water",
+      "fr": "Eau sacrée d'affinage final",
+      "ja": "最終改良用の聖水",
+      "ko": "Oddly Delicate Holy Water"
+    },
+    "stars": 4,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 12089,
+    "durability": 55,
+    "id": "3103906e67a",
+    "level": 510,
+    "maxQuality": 75378,
+    "name": {
+      "cn": "Resplendent Alchemist's Component A",
+      "de": "Tertiärbauteil für Alchemisten-Prachtwerkzeuge",
+      "en": "Resplendent Alchemist's Component A",
+      "fr": "Composant pour outil resplendissant I (alchimiste)",
+      "ja": "リスプレンデントツールの一次加工部材:錬金",
+      "ko": "Resplendent Alchemist's Component A"
+    },
+    "stars": 4,
+    "suggestedControl": 2540,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 12132,
+    "durability": 55,
+    "id": "d61c2330513",
+    "level": 510,
+    "maxQuality": 78180,
+    "name": {
+      "cn": "Resplendent Alchemist's Component B",
+      "de": "Sekundärbauteil für Alchemisten-Prachtwerkzeuge",
+      "en": "Resplendent Alchemist's Component B",
+      "fr": "Composant pour outil resplendissant II (alchimiste)",
+      "ja": "リスプレンデントツールの二次加工部材:錬金",
+      "ko": "Resplendent Alchemist's Component B"
+    },
+    "stars": 4,
+    "suggestedControl": 2540,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 13024,
+    "durability": 60,
+    "id": "43dbc74811d",
+    "level": 540,
+    "maxQuality": 85033,
+    "name": {
+      "cn": "Resplendent Alchemist's Component C",
+      "de": "Primärbauteil für Alchemisten-Prachtwerkzeuge",
+      "en": "Resplendent Alchemist's Component C",
+      "fr": "Composant pour outil resplendissant III (alchimiste)",
+      "ja": "リスプレンデントツールの三次加工部材:錬金",
+      "ko": "Resplendent Alchemist's Component C"
+    },
+    "stars": 5,
     "suggestedControl": 2540,
     "suggestedCraftsmanship": 2620
   }
