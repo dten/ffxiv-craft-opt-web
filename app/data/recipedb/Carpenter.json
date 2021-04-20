@@ -1685,6 +1685,23 @@
   {
     "baseLevel": 20,
     "difficulty": 74,
+    "durability": 60,
+    "id": "8ac91e22360",
+    "level": 20,
+    "maxQuality": 1263,
+    "name": {
+      "cn": "Grade 4 Skybuilders' Plywood",
+      "de": "Himmelsang-Sperrholzplatte",
+      "en": "Grade 4 Skybuilders' Plywood",
+      "fr": "Bois contreplaqué de restauration (4e phase)",
+      "ja": "第四次復興用の合板",
+      "ko": "Grade 4 Skybuilders' Plywood"
+    },
+    "suggestedCraftsmanship": 94
+  },
+  {
+    "baseLevel": 20,
+    "difficulty": 74,
     "durability": 70,
     "id": "287954ffd05",
     "level": 20,
@@ -2626,7 +2643,7 @@
     "maxQuality": 1584,
     "name": {
       "cn": "天上蓝染剂",
-      "de": "Jadegrüner Farbstoff",
+      "de": "Azurblauer Farbstoff",
       "en": "Celeste Green Dye",
       "fr": "Teinture vert céleste",
       "ja": "カララント:セレストグリーン",
@@ -4110,6 +4127,23 @@
       "fr": "Caisse en bois de restauration (3e phase)",
       "ja": "第三次復興用の木箱",
       "ko": "Grade 3 Skybuilders' Crate"
+    },
+    "suggestedCraftsmanship": 136
+  },
+  {
+    "baseLevel": 40,
+    "difficulty": 138,
+    "durability": 60,
+    "id": "526bada3a01",
+    "level": 40,
+    "maxQuality": 4100,
+    "name": {
+      "cn": "Grade 4 Skybuilders' Crate",
+      "de": "Himmelsang-Holzkiste",
+      "en": "Grade 4 Skybuilders' Crate",
+      "fr": "Caisse en bois de restauration (4e phase)",
+      "ja": "第四次復興用の木箱",
+      "ko": "Grade 4 Skybuilders' Crate"
     },
     "suggestedCraftsmanship": 136
   },
@@ -8863,6 +8897,23 @@
     "baseLevel": 60,
     "difficulty": 956,
     "durability": 60,
+    "id": "35ba38f7752",
+    "level": 150,
+    "maxQuality": 15702,
+    "name": {
+      "cn": "Grade 4 Skybuilders' Spinning Wheel",
+      "de": "Himmelsang-Spinnrad",
+      "en": "Grade 4 Skybuilders' Spinning Wheel",
+      "fr": "Rouet de restauration (4e phase)",
+      "ja": "第四次復興用のスピニングホイール",
+      "ko": "Grade 4 Skybuilders' Spinning Wheel"
+    },
+    "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 956,
+    "durability": 60,
     "id": "d59ccff5096",
     "level": 150,
     "maxQuality": 6280,
@@ -12991,6 +13042,23 @@
   },
   {
     "baseLevel": 70,
+    "difficulty": 2214,
+    "durability": 60,
+    "id": "dae42ab0e4d",
+    "level": 290,
+    "maxQuality": 32860,
+    "name": {
+      "cn": "Grade 4 Skybuilders' Stepladder",
+      "de": "Himmelsang-Trittleiter",
+      "en": "Grade 4 Skybuilders' Stepladder",
+      "fr": "Escabeau de restauration (4e phase)",
+      "ja": "第四次復興用の脚立",
+      "ko": "Grade 4 Skybuilders' Stepladder"
+    },
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
     "difficulty": 2435,
     "durability": 70,
     "id": "d53fcbc82ec",
@@ -13324,6 +13392,42 @@
     "baseLevel": 70,
     "difficulty": 2657,
     "durability": 70,
+    "id": "4e22c9eebcb",
+    "level": 320,
+    "maxQuality": 12511,
+    "name": {
+      "cn": "Byakko's Enspirited Lance",
+      "de": "Belebte Byakko-Lanze",
+      "en": "Byakko's Enspirited Lance",
+      "fr": "Lance de Byakko flamboyante",
+      "ja": "白虎長槍【輝】",
+      "ko": "Byakko's Enspirited Lance"
+    },
+    "stars": 2,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2657,
+    "durability": 70,
+    "id": "98fdfa30ec7",
+    "level": 320,
+    "maxQuality": 12511,
+    "name": {
+      "cn": "Byakko's Enspirited Lutebow",
+      "de": "Belebter Byakko-Lautenbogen",
+      "en": "Byakko's Enspirited Lutebow",
+      "fr": "Arc-luth de Byakko flamboyant",
+      "ja": "白虎琵琶弓【輝】",
+      "ko": "Byakko's Enspirited Lutebow"
+    },
+    "stars": 2,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2657,
+    "durability": 70,
     "id": "de15a3baa58",
     "level": 320,
     "maxQuality": 12511,
@@ -13538,7 +13642,7 @@
     "maxQuality": 12511,
     "name": {
       "cn": "Seiryu's Sanctified Greatbow",
-      "de": "Langbogen des Schlangengotts",
+      "de": "Langbogen des Schlangengottes",
       "en": "Seiryu's Sanctified Greatbow",
       "fr": "Grand arc de Seiryû flamboyant",
       "ja": "青龍大弓【輝】",
@@ -14642,6 +14746,23 @@
   {
     "baseLevel": 71,
     "difficulty": 3149,
+    "durability": 60,
+    "id": "449e744bc50",
+    "level": 390,
+    "maxQuality": 10468,
+    "name": {
+      "cn": "Patient Necessities",
+      "de": "Alltägliche Bedarfsgüter",
+      "en": "Patient Necessities",
+      "fr": "Articles du quotidien",
+      "ja": "記念病院の日用品",
+      "ko": "Patient Necessities"
+    },
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 3149,
     "durability": 80,
     "id": "ee0f03dcc17",
     "level": 390,
@@ -14913,6 +15034,23 @@
   },
   {
     "baseLevel": 72,
+    "difficulty": 3248,
+    "durability": 60,
+    "id": "cd3b4fc92ba",
+    "level": 395,
+    "maxQuality": 10928,
+    "name": {
+      "cn": "Medical Supplies",
+      "de": "Medizinische Versorgungsgüter",
+      "en": "Medical Supplies",
+      "fr": "Matériel médical",
+      "ja": "記念病院の医療品",
+      "ko": "Medical Supplies"
+    },
+    "suggestedCraftsmanship": 1388
+  },
+  {
+    "baseLevel": 72,
     "difficulty": 1624,
     "durability": 40,
     "id": "3a1545deb6e",
@@ -15010,6 +15148,23 @@
       "fr": "Outils d'artisanat pour dragon",
       "ja": "ドラゴン用職人道具部材",
       "ko": "Custom Crafting Tool Components"
+    },
+    "suggestedCraftsmanship": 1457
+  },
+  {
+    "baseLevel": 73,
+    "difficulty": 3348,
+    "durability": 60,
+    "id": "50719abc5da",
+    "level": 400,
+    "maxQuality": 11249,
+    "name": {
+      "cn": "Rehabilitation Aids",
+      "de": "Rehabilitations-Hilfsmittel",
+      "en": "Rehabilitation Aids",
+      "fr": "Matériel de rééducation",
+      "ja": "記念病院の機能回復訓練用品",
+      "ko": "Rehabilitation Aids"
     },
     "suggestedCraftsmanship": 1457
   },
@@ -15197,6 +15352,23 @@
       "fr": "Matériau de restauration de barde d'amaro",
       "ja": "アマロ装身具の修復材",
       "ko": "Amaro Barding Repair Materials"
+    },
+    "suggestedCraftsmanship": 1539
+  },
+  {
+    "baseLevel": 75,
+    "difficulty": 3467,
+    "durability": 60,
+    "id": "9ffe9115c66",
+    "level": 406,
+    "maxQuality": 11921,
+    "name": {
+      "cn": "High Tea Essentials",
+      "de": "Teestunden-Utensilien",
+      "en": "High Tea Essentials",
+      "fr": "Articles de goûter dînatoire",
+      "ja": "記念病院の茶会用品",
+      "ko": "High Tea Essentials"
     },
     "suggestedCraftsmanship": 1539
   },
@@ -15492,6 +15664,23 @@
   {
     "baseLevel": 77,
     "difficulty": 3586,
+    "durability": 60,
+    "id": "b04145ee175",
+    "level": 412,
+    "maxQuality": 12593,
+    "name": {
+      "cn": "Art Supplies",
+      "de": "Künstlerbedarf",
+      "en": "Art Supplies",
+      "fr": "Matériel créatif",
+      "ja": "記念病院の絵画道具",
+      "ko": "Art Supplies"
+    },
+    "suggestedCraftsmanship": 1621
+  },
+  {
+    "baseLevel": 77,
+    "difficulty": 3586,
     "durability": 80,
     "id": "f037a348eb9",
     "level": 412,
@@ -15782,6 +15971,40 @@
     "baseLevel": 80,
     "difficulty": 3943,
     "durability": 80,
+    "id": "f8338bf0661",
+    "level": 430,
+    "maxQuality": 9131,
+    "name": {
+      "cn": "Back Bar",
+      "de": "Barregal",
+      "en": "Back Bar",
+      "fr": "Étagère de bar",
+      "ja": "バックバー",
+      "ko": "Back Bar"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
+    "id": "d4bb6789372",
+    "level": 430,
+    "maxQuality": 9131,
+    "name": {
+      "cn": "Bar Rack",
+      "de": "Gläserregal",
+      "en": "Bar Rack",
+      "fr": "Porte-verres",
+      "ja": "グラスハンガー",
+      "ko": "Bar Rack"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
     "id": "910c8cf600b",
     "level": 430,
     "maxQuality": 9131,
@@ -15826,6 +16049,23 @@
       "fr": "Étagère à affinage",
       "ja": "チーズシェルフ",
       "ko": "Cheese Collection"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
+    "id": "1238dca6ade",
+    "level": 430,
+    "maxQuality": 9131,
+    "name": {
+      "cn": "Country Dining Set",
+      "de": "Karo-Esstischgarnitur",
+      "en": "Country Dining Set",
+      "fr": "Table à carreaux et chaises",
+      "ja": "チェッククロス・ダイニングセット",
+      "ko": "Country Dining Set"
     },
     "suggestedCraftsmanship": 1866
   },
@@ -15883,6 +16123,23 @@
   {
     "baseLevel": 80,
     "difficulty": 3943,
+    "durability": 60,
+    "id": "bf95621df04",
+    "level": 430,
+    "maxQuality": 36524,
+    "name": {
+      "cn": "Grade 4 Skybuilders' Bed",
+      "de": "Himmelsang-Bett",
+      "en": "Grade 4 Skybuilders' Bed",
+      "fr": "Lit de restauration (4e phase)",
+      "ja": "第四次復興用の寝台",
+      "ko": "Grade 4 Skybuilders' Bed"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
     "durability": 80,
     "id": "c4cbec89925",
     "level": 430,
@@ -15894,6 +16151,57 @@
       "fr": "Parquet en chevrons",
       "ja": "ヘリンボーン・フローリング",
       "ko": "Herringbone Flooring"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
+    "id": "cb8e43f221c",
+    "level": 430,
+    "maxQuality": 9131,
+    "name": {
+      "cn": "Hingan Windowed Partition",
+      "de": "Rundfenster-Raumteiler",
+      "en": "Hingan Windowed Partition",
+      "fr": "Cloison à fenêtre ronde",
+      "ja": "円窓付衝立",
+      "ko": "Hingan Windowed Partition"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
+    "id": "0d4e7a89507",
+    "level": 430,
+    "maxQuality": 9131,
+    "name": {
+      "cn": "Ice Box",
+      "de": "Permafrost-Kühlschrank",
+      "en": "Ice Box",
+      "fr": "Glacière",
+      "ja": "アイスボックス",
+      "ko": "Ice Box"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
+    "id": "3924175913e",
+    "level": 430,
+    "maxQuality": 9131,
+    "name": {
+      "cn": "La Noscean Grape Pergola",
+      "de": "Riviera-Weinlaube",
+      "en": "La Noscean Grape Pergola",
+      "fr": "Pergola raisin noscéen",
+      "ja": "ラノシアン・グレープパーゴラ",
+      "ko": "La Noscean Grape Pergola"
     },
     "suggestedCraftsmanship": 1866
   },
@@ -16020,6 +16328,23 @@
     "baseLevel": 80,
     "difficulty": 3943,
     "durability": 80,
+    "id": "aa5238542c0",
+    "level": 430,
+    "maxQuality": 9131,
+    "name": {
+      "cn": "Paissa Swing Chair",
+      "de": "Paissa-Hängestuhl",
+      "en": "Paissa Swing Chair",
+      "fr": "Fauteuil païssa suspendu",
+      "ja": "パイッサハンギングチェア",
+      "ko": "Paissa Swing Chair"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
     "id": "9ec2037ee1a",
     "level": 430,
     "maxQuality": 18262,
@@ -16047,6 +16372,23 @@
       "fr": "Fauteuil ronka à bascule",
       "ja": "ロンカ・ロッキングチェア",
       "ko": "Ronkan Rocking Chair"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
+    "id": "064067c76fb",
+    "level": 430,
+    "maxQuality": 9131,
+    "name": {
+      "cn": "Rustic Chocobo Counter",
+      "de": "Chocobostall-Theke",
+      "en": "Rustic Chocobo Counter",
+      "fr": "Comptoir d'étable à chocobos rustique",
+      "ja": "カントリーチョコボ・カウンター",
+      "ko": "Rustic Chocobo Counter"
     },
     "suggestedCraftsmanship": 1866
   },
@@ -16105,6 +16447,57 @@
     "baseLevel": 80,
     "difficulty": 3943,
     "durability": 80,
+    "id": "bca6b94f89d",
+    "level": 430,
+    "maxQuality": 9131,
+    "name": {
+      "cn": "Violin Showcase",
+      "de": "Geigenschrank",
+      "en": "Violin Showcase",
+      "fr": "Vitrine de violons",
+      "ja": "ヴァイオリンショーケース",
+      "ko": "Violin Showcase"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
+    "id": "705c4f6e1b1",
+    "level": 430,
+    "maxQuality": 9131,
+    "name": {
+      "cn": "Windowed Partition",
+      "de": "Fenster-Raumteiler",
+      "en": "Windowed Partition",
+      "fr": "Cloison à fenêtre",
+      "ja": "ウィンドウパーティション",
+      "ko": "Windowed Partition"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
+    "id": "25091b23e84",
+    "level": 430,
+    "maxQuality": 9131,
+    "name": {
+      "cn": "Wood Slat Partition",
+      "de": "Holzbretter-Raumteiler",
+      "en": "Wood Slat Partition",
+      "fr": "Cloison en lattes de bois",
+      "ja": "ウッドスラット・パーティション",
+      "ko": "Wood Slat Partition"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
     "id": "3929be4478c",
     "level": 430,
     "maxQuality": 9131,
@@ -16115,6 +16508,23 @@
       "fr": "Lustre en bois",
       "ja": "ウッドシャンデリア",
       "ko": "Wooden Chandelier"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
+    "id": "e6f2e28c502",
+    "level": 430,
+    "maxQuality": 9131,
+    "name": {
+      "cn": "Wooden Reel Table",
+      "de": "Spulentisch",
+      "en": "Wooden Reel Table",
+      "fr": "Table touret",
+      "ja": "ドラムテーブル",
+      "ko": "Wooden Reel Table"
     },
     "suggestedCraftsmanship": 1866
   },
@@ -16153,6 +16563,24 @@
     "stars": 1,
     "suggestedControl": 1860,
     "suggestedCraftsmanship": 2000
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 4343,
+    "durability": 70,
+    "id": "5b8c58a95e2",
+    "level": 450,
+    "maxQuality": 23395,
+    "name": {
+      "cn": "Augmented Oknos",
+      "de": "Modifiziertes Oknos",
+      "en": "Augmented Oknos",
+      "fr": "Oknos amélioré",
+      "ja": "オクノスRE",
+      "ko": "Augmented Oknos"
+    },
+    "stars": 2,
+    "suggestedCraftsmanship": 2140
   },
   {
     "baseLevel": 80,
@@ -17008,6 +17436,81 @@
   },
   {
     "baseLevel": 80,
+    "difficulty": 12046,
+    "durability": 55,
+    "id": "400f37d4047",
+    "level": 510,
+    "maxQuality": 81447,
+    "name": {
+      "cn": "Grade 4 Artisanal Skybuilders' Ice Box",
+      "de": "Sonderbestellte Himmelsang-Eiskiste",
+      "en": "Grade 4 Artisanal Skybuilders' Ice Box",
+      "fr": "Glacière sur commande de restauration (4e phase)",
+      "ja": "第四次復興用の特注アイスボックス",
+      "ko": "Grade 4 Artisanal Skybuilders' Ice Box"
+    },
+    "stars": 4,
+    "suggestedControl": 2540,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 10049,
+    "durability": 60,
+    "id": "c0ae9568c6f",
+    "level": 510,
+    "maxQuality": 76939,
+    "name": {
+      "cn": "Oddly Delicate Pine Lumber",
+      "de": "Kiefern-Bauholz zur Himmelsstahl-Werkzeug-Vollendung",
+      "en": "Oddly Delicate Pine Lumber",
+      "fr": "Madrier de pin d'affinage final",
+      "ja": "最終改良用のパイン材",
+      "ko": "Oddly Delicate Pine Lumber"
+    },
+    "stars": 4,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 12089,
+    "durability": 55,
+    "id": "32ab88e6e9e",
+    "level": 510,
+    "maxQuality": 75378,
+    "name": {
+      "cn": "Resplendent Carpenter's Component A",
+      "de": "Tertiärbauteil für Zimmerer-Prachtwerkzeuge",
+      "en": "Resplendent Carpenter's Component A",
+      "fr": "Composant pour outil resplendissant I (menuisier)",
+      "ja": "リスプレンデントツールの一次加工部材:木工",
+      "ko": "Resplendent Carpenter's Component A"
+    },
+    "stars": 4,
+    "suggestedControl": 2540,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 12132,
+    "durability": 55,
+    "id": "e565c3f263e",
+    "level": 510,
+    "maxQuality": 78180,
+    "name": {
+      "cn": "Resplendent Carpenter's Component B",
+      "de": "Sekundärbauteil für Zimmerer-Prachtwerkzeuge",
+      "en": "Resplendent Carpenter's Component B",
+      "fr": "Composant pour outil resplendissant II (menuisier)",
+      "ja": "リスプレンデントツールの二次加工部材:木工",
+      "ko": "Resplendent Carpenter's Component B"
+    },
+    "stars": 4,
+    "suggestedControl": 2540,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
     "difficulty": 5820,
     "durability": 35,
     "id": "fef96f96e9f",
@@ -17022,6 +17525,25 @@
       "ko": "Silver Beech Lumber"
     },
     "stars": 4,
+    "suggestedControl": 2540,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 13024,
+    "durability": 60,
+    "id": "ce96f87390d",
+    "level": 540,
+    "maxQuality": 85033,
+    "name": {
+      "cn": "Resplendent Carpenter's Component C",
+      "de": "Primärbauteil für Zimmerer-Prachtwerkzeuge",
+      "en": "Resplendent Carpenter's Component C",
+      "fr": "Composant pour outil resplendissant III (menuisier)",
+      "ja": "リスプレンデントツールの三次加工部材:木工",
+      "ko": "Resplendent Carpenter's Component C"
+    },
+    "stars": 5,
     "suggestedControl": 2540,
     "suggestedCraftsmanship": 2620
   }
