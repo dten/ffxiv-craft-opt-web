@@ -16179,12 +16179,12 @@
     "level": 430,
     "maxQuality": 9131,
     "name": {
-      "cn": "Ice Box",
+      "cn": "Icebox",
       "de": "Permafrost-Kühlschrank",
-      "en": "Ice Box",
+      "en": "Icebox",
       "fr": "Glacière",
       "ja": "アイスボックス",
-      "ko": "Ice Box"
+      "ko": "Icebox"
     },
     "suggestedCraftsmanship": 1866
   },
@@ -16258,6 +16258,23 @@
   },
   {
     "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
+    "id": "31394283964",
+    "level": 430,
+    "maxQuality": 9131,
+    "name": {
+      "cn": "Low Bookshelf",
+      "de": "Niedriger Bücherschrank",
+      "en": "Low Bookshelf",
+      "fr": "Mini-bibliothèque",
+      "ja": "ハーフブックシェルフ",
+      "ko": "Low Bookshelf"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
     "difficulty": 2760,
     "durability": 80,
     "id": "61b00131bd1",
@@ -16287,6 +16304,23 @@
       "fr": "Aqueduc en acajou",
       "ja": "マホガニーアキダクト",
       "ko": "Mahogany Aqueduct"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
+    "id": "807c4550e76",
+    "level": 430,
+    "maxQuality": 9131,
+    "name": {
+      "cn": "Mogbureau",
+      "de": "Mogry-Sekretär",
+      "en": "Mogbureau",
+      "fr": "Bureau mog",
+      "ja": "モーグリビューロー",
+      "ko": "Mogbureau"
     },
     "suggestedCraftsmanship": 1866
   },
@@ -16338,6 +16372,23 @@
       "fr": "Fauteuil païssa suspendu",
       "ja": "パイッサハンギングチェア",
       "ko": "Paissa Swing Chair"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
+    "id": "b7038915264",
+    "level": 430,
+    "maxQuality": 9131,
+    "name": {
+      "cn": "Qiqirn Shelf",
+      "de": "Qiqirn-Regal",
+      "en": "Qiqirn Shelf",
+      "fr": "Étagère qiqirn",
+      "ja": "キキルンシェルフ",
+      "ko": "Qiqirn Shelf"
     },
     "suggestedCraftsmanship": 1866
   },
@@ -16525,6 +16576,23 @@
       "fr": "Table touret",
       "ja": "ドラムテーブル",
       "ko": "Wooden Reel Table"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
+    "id": "7d1259959e8",
+    "level": 430,
+    "maxQuality": 9131,
+    "name": {
+      "cn": "Wooden Spiral Staircase",
+      "de": "Wendeltreppe",
+      "en": "Wooden Spiral Staircase",
+      "fr": "Escalier en colimaçon",
+      "ja": "スパイラルウッドステップ",
+      "ko": "Wooden Spiral Staircase"
     },
     "suggestedCraftsmanship": 1866
   },
@@ -17442,12 +17510,12 @@
     "level": 510,
     "maxQuality": 81447,
     "name": {
-      "cn": "Grade 4 Artisanal Skybuilders' Ice Box",
+      "cn": "Grade 4 Artisanal Skybuilders' Icebox",
       "de": "Sonderbestellte Himmelsang-Eiskiste",
-      "en": "Grade 4 Artisanal Skybuilders' Ice Box",
+      "en": "Grade 4 Artisanal Skybuilders' Icebox",
       "fr": "Glacière sur commande de restauration (4e phase)",
       "ja": "第四次復興用の特注アイスボックス",
-      "ko": "Grade 4 Artisanal Skybuilders' Ice Box"
+      "ko": "Grade 4 Artisanal Skybuilders' Icebox"
     },
     "stars": 4,
     "suggestedControl": 2540,
