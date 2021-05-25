@@ -15261,7 +15261,7 @@
       "cn": "Black Moth Orchid Corsage",
       "de": "Schwarzer Mondorchideen-Ohrring",
       "en": "Black Moth Orchid Corsage",
-      "fr": "Boucle d'oreille orchidée papillon noir",
+      "fr": "Boucle d'oreille orchidée papillon noire",
       "ja": "胡蝶蘭耳飾り:黒",
       "ko": "Black Moth Orchid Corsage"
     },
@@ -15329,7 +15329,7 @@
       "cn": "Blue Moth Orchid Corsage",
       "de": "Blauer Mondorchideen-Ohrring",
       "en": "Blue Moth Orchid Corsage",
-      "fr": "Boucle d'oreille orchidée papillon bleu",
+      "fr": "Boucle d'oreille orchidée papillon bleue",
       "ja": "胡蝶蘭耳飾り:蒼",
       "ko": "Blue Moth Orchid Corsage"
     },
@@ -15499,7 +15499,7 @@
       "cn": "Green Moth Orchid Corsage",
       "de": "Grüner Mondorchideen-Ohrring",
       "en": "Green Moth Orchid Corsage",
-      "fr": "Boucle d'oreille orchidée papillon vert",
+      "fr": "Boucle d'oreille orchidée papillon verte",
       "ja": "胡蝶蘭耳飾り:翠",
       "ko": "Green Moth Orchid Corsage"
     },
@@ -15652,7 +15652,7 @@
       "cn": "Purple Moth Orchid Corsage",
       "de": "Violetter Mondorchideen-Ohrring",
       "en": "Purple Moth Orchid Corsage",
-      "fr": "Boucle d'oreille orchidée papillon violet",
+      "fr": "Boucle d'oreille orchidée papillon violette",
       "ja": "胡蝶蘭耳飾り:紫",
       "ko": "Purple Moth Orchid Corsage"
     },
@@ -15873,7 +15873,7 @@
       "cn": "White Moth Orchid Corsage",
       "de": "Weißer Mondorchideen-Ohrring",
       "en": "White Moth Orchid Corsage",
-      "fr": "Boucle d'oreille orchidée papillon blanc",
+      "fr": "Boucle d'oreille orchidée papillon blanche",
       "ja": "胡蝶蘭耳飾り:白",
       "ko": "White Moth Orchid Corsage"
     },
@@ -16563,6 +16563,23 @@
     "baseLevel": 80,
     "difficulty": 3943,
     "durability": 80,
+    "id": "eedfa4161d1",
+    "level": 430,
+    "maxQuality": 9131,
+    "name": {
+      "cn": "Crystarium Wardrobe",
+      "de": "Crystarium-Kleiderschrank",
+      "en": "Crystarium Wardrobe",
+      "fr": "Penderie de Cristarium",
+      "ja": "クリスタリウム・ワードローブ",
+      "ko": "Crystarium Wardrobe"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
     "id": "385acf97bfa",
     "level": 430,
     "maxQuality": 9131,
@@ -16624,6 +16641,40 @@
       "fr": "Fontaine fruitière",
       "ja": "プランターファウンテン",
       "ko": "Fruitful Fountain"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
+    "id": "86a9861c71d",
+    "level": 430,
+    "maxQuality": 9131,
+    "name": {
+      "cn": "Garden Tool Shelf",
+      "de": "Gartenregal",
+      "en": "Garden Tool Shelf",
+      "fr": "Rangement à outils de jardin",
+      "ja": "ガーデンツールシェルフ",
+      "ko": "Garden Tool Shelf"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
+    "id": "c44deccf0d0",
+    "level": 430,
+    "maxQuality": 9131,
+    "name": {
+      "cn": "Glade Gazebo",
+      "de": "Wald-Pavillon",
+      "en": "Glade Gazebo",
+      "fr": "Kiosque de jardin sombrelinçois",
+      "ja": "シュラウド・ガゼボ",
+      "ko": "Glade Gazebo"
     },
     "suggestedCraftsmanship": 1866
   },

@@ -24934,6 +24934,23 @@
   },
   {
     "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
+    "id": "f7a62d830d7",
+    "level": 430,
+    "maxQuality": 9131,
+    "name": {
+      "cn": "Eastern Indoor Pond",
+      "de": "Innenteich",
+      "en": "Eastern Indoor Pond",
+      "fr": "Bassin d'intérieur oriental",
+      "ja": "イースタンインドアポンド",
+      "ko": "Eastern Indoor Pond"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
     "difficulty": 2760,
     "durability": 80,
     "id": "90e6a2a8385",
@@ -24946,6 +24963,23 @@
       "fr": "Bague ensorcelée",
       "ja": "精巧な指輪",
       "ko": "Enchanting Ring"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
+    "id": "38d9f1117dd",
+    "level": 430,
+    "maxQuality": 9131,
+    "name": {
+      "cn": "Goobbue Wall Chronometer",
+      "de": "Goobbue-Wanduhr",
+      "en": "Goobbue Wall Chronometer",
+      "fr": "Horloge murale goobbue",
+      "ja": "グゥーブー・ウォールクロノメーター",
+      "ko": "Goobbue Wall Chronometer"
     },
     "suggestedCraftsmanship": 1866
   },
@@ -25065,6 +25099,23 @@
       "fr": "Onyx",
       "ja": "オニキス",
       "ko": "Onyx"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
+    "id": "1f08ccb05c1",
+    "level": 430,
+    "maxQuality": 9131,
+    "name": {
+      "cn": "Philosopher's Stone Table",
+      "de": "Philosophen-Rundtisch",
+      "en": "Philosopher's Stone Table",
+      "fr": "Table ronde du philosophe",
+      "ja": "ピロソポス・ラウンドテーブル",
+      "ko": "Philosopher's Stone Table"
     },
     "suggestedCraftsmanship": 1866
   },
